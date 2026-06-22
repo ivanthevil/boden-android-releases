@@ -1,0 +1,7 @@
+{
+  "version": "0.1.1",
+  "name": "bOden Rückbau",
+  "notes": "Neues bOden-Design, Freitext für Probenart und Analytik sowie PDF-Vorschau im Browser.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.1/bOden-Rueckbau-0.1.1-debug.apk",
+  "minimumAndroidVersion": 26
+}
