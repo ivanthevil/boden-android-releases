@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "name": "bOden Rückbau",
-  "notes": "PDF-Layout der bOden-Rückbauvorlage übernommen sowie Einstellungen mit GitHub-Update-Prüfung ergänzt.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.2/bOden-Rueckbau-0.1.2-debug.apk",
+  "notes": "Fotos werden auf Android im App-Speicher abgelegt; Probenbezeichnung mit Vorauswahl P, PSFMP und MP ergänzt.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.3/bOden-Rueckbau-0.1.3-debug.apk",
   "minimumAndroidVersion": 26
 }
