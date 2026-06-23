@@ -1,7 +1,7 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "name": "bOden Rückbau",
-  "notes": "Darstellungsfehler der Probenbezeichnung P 1 korrigiert.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.5/bOden-Rueckbau-0.1.5-debug.apk",
+  "notes": "PDF-Export mit eingebettetem Arial sowie originalem bOden-App-Icon.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.6/bOden-Rueckbau-0.1.6-debug.apk",
   "minimumAndroidVersion": 26
 }
