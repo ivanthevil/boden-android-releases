@@ -1,7 +1,7 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "name": "bOden Rückbau",
-  "notes": "Direkter Android-Updater: Download im Hintergrund und automatischer Installationsdialog statt Browser-Download.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.4/bOden-Rueckbau-0.1.4-debug.apk",
+  "notes": "Darstellungsfehler der Probenbezeichnung P 1 korrigiert.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.5/bOden-Rueckbau-0.1.5-debug.apk",
   "minimumAndroidVersion": 26
 }
