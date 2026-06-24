@@ -1,7 +1,7 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "name": "bOden Rückbau",
-  "notes": "PDF-Export mit eingebettetem Arial sowie originalem bOden-App-Icon.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.6/bOden-Rueckbau-0.1.6-debug.apk",
+  "notes": "Sonnenmodus-Startmenü, getrennte Auswahl für Probenart und Materialdetail, korrigierte Analytik-Auswahl, Fotoablage in der Galerie sowie Word-Export.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.7/bOden-Rueckbau-0.1.7-debug.apk",
   "minimumAndroidVersion": 26
 }
