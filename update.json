@@ -1,8 +1,7 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.12",
   "name": "bOden Rueckbau",
-  "notes": "Word-Export repariert: DOCX-Dateien werden jetzt mit korrekter Word-XML-Struktur erzeugt und lassen sich in Word oeffnen.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.11/bOden-Rueckbau-0.1.11-debug.apk",
+  "notes": "DOCX-Export korrigiert: Kopfbereich wird befuellt, linke Tabellenlabels bleiben erhalten und App-Daten stehen in der rechten Spalte.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.12/bOden-Rueckbau-0.1.12-debug.apk",
   "minimumAndroidVersion": 26
 }
-
