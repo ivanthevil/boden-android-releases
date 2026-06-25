@@ -1,7 +1,7 @@
 {
-  "version": "0.1.15",
+  "version": "0.1.16",
   "name": "bOden Rueckbau",
-  "notes": "DOCX-Export korrigiert: Fotozeile wird direkt im Haupttabellenraster geschrieben, damit Fotos nicht nach oben verrutschen.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.15/bOden-Rueckbau-0.1.15-debug.apk",
+  "notes": "DOCX-Export korrigiert: Fotos behalten ihr Format und nutzen die volle Fotozeile; Einzelbilder werden mittig zentriert.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.16/bOden-Rueckbau-0.1.16-debug.apk",
   "minimumAndroidVersion": 26
 }
