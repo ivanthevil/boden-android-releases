@@ -1,7 +1,7 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "name": "bOden Rueckbau",
-  "notes": "PDF-Vorschau stabilisiert, DOCX/Settings-Buttons ausgerichtet, Word-Export mit Rueckmeldung und Android-Updater-Fallback korrigiert.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.8/bOden-Rueckbau-0.1.8-debug.apk",
+  "notes": "Word-Export nutzt jetzt die hochgeladene Vorlage als DOCX-Template. Probenahmeprotokolle koennen lokal bewusst gespeichert werden.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.9/bOden-Rueckbau-0.1.9-debug.apk",
   "minimumAndroidVersion": 26
 }
