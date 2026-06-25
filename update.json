@@ -1,7 +1,7 @@
 {
-  "version": "0.1.16",
+  "version": "0.1.17",
   "name": "bOden Rueckbau",
-  "notes": "DOCX-Export korrigiert: Fotos behalten ihr Format und nutzen die volle Fotozeile; Einzelbilder werden mittig zentriert.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.16/bOden-Rueckbau-0.1.16-debug.apk",
+  "notes": "DOCX-Export korrigiert: Fotos werden in der Fotozeile unten ausgerichtet und bis zum unteren Rand der vorgesehenen Flaeche gesetzt.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.17/bOden-Rueckbau-0.1.17-debug.apk",
   "minimumAndroidVersion": 26
 }
