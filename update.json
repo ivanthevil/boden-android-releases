@@ -1,7 +1,7 @@
 {
-  "version": "0.1.12",
+  "version": "0.1.13",
   "name": "bOden Rueckbau",
-  "notes": "DOCX-Export korrigiert: Kopfbereich wird befuellt, linke Tabellenlabels bleiben erhalten und App-Daten stehen in der rechten Spalte.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.12/bOden-Rueckbau-0.1.12-debug.apk",
+  "notes": "DOCX-Export korrigiert: Kopfbereich wird befuellt, linke Tabellenlabels bleiben erhalten, App-Daten stehen rechts und vorhandene Fotos werden in die Word-Vorlage eingesetzt.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.13/bOden-Rueckbau-0.1.13-debug.apk",
   "minimumAndroidVersion": 26
 }
