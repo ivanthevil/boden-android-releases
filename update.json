@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9",
+  "version": "0.1.10",
   "name": "bOden Rueckbau",
-  "notes": "Word-Export nutzt jetzt die hochgeladene Vorlage als DOCX-Template. Probenahmeprotokolle koennen lokal bewusst gespeichert werden.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.9/bOden-Rueckbau-0.1.9-debug.apk",
+  "notes": "Word-Export nutzt jetzt die leere VORLAGE.docx exakt als Template und befuellt sie mit den App-Daten.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.10/bOden-Rueckbau-0.1.10-debug.apk",
   "minimumAndroidVersion": 26
 }
