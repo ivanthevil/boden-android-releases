@@ -1,7 +1,7 @@
 {
-  "version": "0.1.18",
+  "version": "0.1.19",
   "name": "bOden Rueckbau",
-  "notes": "PDF-Export naeher an der Word-Vorlage, bessere Fotoeinpassung sowie korrigierte Einstellungen- und Probenbezeichnungs-Buttons.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.18/bOden-Rueckbau-0.1.18-debug.apk",
+  "notes": "Absturzsicherer Mehrfach-Export, automatische Datensicherung, Proben-Auswahl fuer PDF/DOCX, uebernommener Probenehmer und reparierter nativer Android-Updater.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.19/bOden-Rueckbau-0.1.19-debug.apk",
   "minimumAndroidVersion": 26
 }
