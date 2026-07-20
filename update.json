@@ -1,7 +1,7 @@
 {
-  "version": "0.1.20",
+  "version": "0.1.21",
   "name": "bOden Rueckbau",
-  "notes": "Mehrfach-Export repariert: Grosse Word- und PDF-Dateien mit mehreren Proben und Fotos werden auf Android jetzt stueckweise und stabil gespeichert.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.20/bOden-Rueckbau-0.1.20-debug.apk",
+  "notes": "Android-Export grundlegend repariert: PDF- und Word-Dateien werden ueber einen eigenen nativen Exportdienst geschrieben und geteilt.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.21/bOden-Rueckbau-0.1.21-debug.apk",
   "minimumAndroidVersion": 26
 }
