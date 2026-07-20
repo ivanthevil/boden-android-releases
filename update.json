@@ -1,7 +1,7 @@
 {
-  "version": "0.1.19",
+  "version": "0.1.20",
   "name": "bOden Rueckbau",
-  "notes": "Absturzsicherer Mehrfach-Export, automatische Datensicherung, Proben-Auswahl fuer PDF/DOCX, uebernommener Probenehmer und reparierter nativer Android-Updater.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.19/bOden-Rueckbau-0.1.19-debug.apk",
+  "notes": "Mehrfach-Export repariert: Grosse Word- und PDF-Dateien mit mehreren Proben und Fotos werden auf Android jetzt stueckweise und stabil gespeichert.",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.20/bOden-Rueckbau-0.1.20-debug.apk",
   "minimumAndroidVersion": 26
 }
