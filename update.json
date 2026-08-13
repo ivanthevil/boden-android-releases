@@ -1,7 +1,11 @@
 {
-  "version": "0.1.22",
-  "name": "bOden Rueckbau",
-  "notes": "Behebt den Android-Exportfehler bei PDF und Word. JSON-Sicherungen werden korrekt als UTF-8 gespeichert und koennen den eigentlichen Export nicht mehr blockieren.",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.1.22/bOden-Rueckbau-0.1.22-debug.apk",
-  "minimumAndroidVersion": 26
+  "version": "0.2.0",
+  "versionCode": 200,
+  "name": "bOden Android",
+  "notes": "Erste bOden All-In-One Tablet-Beta: Projekte und Feldpunkte offline, Server-Synchronisation, bisherige Rueckbaufunktion, Kamera/PDF und nativer NIIMBOT-Bluetooth-Etikettendruck.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.2.0/bOden-Android-0.2.0-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.2.0/bOden-Android-0.2.0-debug.apk",
+  "sha256": "a7cd670d9858ece92f1616d1b8030209b94d7da0095d2dd4726c3de70d262b17",
+  "minimumAndroidVersion": 24,
+  "packageName": "de.taberg.boden.rueckbau"
 }
