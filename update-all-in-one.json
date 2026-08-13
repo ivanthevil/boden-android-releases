@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "versionCode": 302,
-  "name": "bOden Android 0.3.2",
-  "notes": "Android-Netzwerkfix: Server-Kopplung und Synchronisierung nutzen jetzt den nativen HTTPS-Client statt des WebView-Browserwegs. Auch die Updatepruefung laeuft nativ und ist damit nicht mehr von CORS abhaengig.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.3.2/bOden-Android-0.3.2-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.3.2/bOden-Android-0.3.2-debug.apk",
-  "sha256": "980c42fd28d1b5f2fede00ec161fbe53fa882b65f1f206cb79c8b5a622b4254e",
+  "version": "0.3.3",
+  "versionCode": 303,
+  "name": "bOden Android 0.3.3",
+  "notes": "Projektansicht korrigiert: Bauvorhaben werden wieder aus den synchronisierten Projektmetadaten uebernommen. Leere Standarddaten fuer LPV, Versickerung und Rueckbau erzeugen keine falschen Eintraege mehr.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.3.3/bOden-Android-0.3.3-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.3.3/bOden-Android-0.3.3-debug.apk",
+  "sha256": "88c2fcf9b07c667f40aafa9a8bbd7f66842d373fe0d581d75244fb8319a5516f",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
