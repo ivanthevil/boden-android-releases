@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "versionCode": 304,
-  "name": "bOden Android 0.3.4",
-  "notes": "Android-Updater repariert: echter Downloadfortschritt, SHA-256-Pruefung, verstaendlicher Hinweis zur Installationsfreigabe und anschliessender Android-Installationsdialog. Android laedt dabei systembedingt das vollstaendige APK.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.3.4/bOden-Android-0.3.4-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.3.4/bOden-Android-0.3.4-debug.apk",
-  "sha256": "0ff403e8536e55bbf60ac8cdd675dbcd96c8bbe477df85290db1f3831c5e5232",
+  "version": "0.4.0",
+  "versionCode": 400,
+  "name": "bOden Android 0.4.0",
+  "notes": "Grosser Android-Paritaetsausbau: gemeinsame Vorschlagslisten inklusive Punktnamen, lokale PDF- und Rueckbau-DOCX-Erzeugung, echte GeoDIN-MDB fuer RKS/Proben/Ramme/GWM, Bohrkern-Vierpunktpipeline, Exportkatalog mit SharePoint-Systemfreigabe sowie eindeutiger Android-Installationsschritt im Updater. Projekte und Einstellungen bleiben beim Update erhalten.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.0/bOden-Android-0.4.0-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.0/bOden-Android-0.4.0-debug.apk",
+  "sha256": "cb6529332a9cd0e0dc7577b6abf5e207ca04ff78c097b4742322a5a3c839f36b",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
