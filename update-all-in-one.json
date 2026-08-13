@@ -1,0 +1,12 @@
+{
+  "version": "0.3.1",
+  "versionCode": 301,
+  "name": "bOden Android 0.3.1",
+  "notes": "Der NIIMBOT-Bluetoothdruck verwendet jetzt pixelgleich die Windows-Etikettenvorlage. Sichtbare Umlaute werden korrekt dargestellt und die Einstellungen zeigen die tatsächlich installierte Android-Version.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.3.1/bOden-Android-0.3.1-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.3.1/bOden-Android-0.3.1-debug.apk",
+  "sha256": "f0204b5bae3f768daa36543524678bf1af62c51d747eff8ee586d61b4c43d275",
+  "minimumAndroidVersion": 24,
+  "packageName": "de.taberg.boden.rueckbau",
+  "channel": "all-in-one"
+}
