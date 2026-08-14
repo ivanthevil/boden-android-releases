@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "versionCode": 400,
-  "name": "bOden Android 0.4.0",
-  "notes": "Grosser Android-Paritaetsausbau: gemeinsame Vorschlagslisten inklusive Punktnamen, lokale PDF- und Rueckbau-DOCX-Erzeugung, echte GeoDIN-MDB fuer RKS/Proben/Ramme/GWM, Bohrkern-Vierpunktpipeline, Exportkatalog mit SharePoint-Systemfreigabe sowie eindeutiger Android-Installationsschritt im Updater. Projekte und Einstellungen bleiben beim Update erhalten.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.0/bOden-Android-0.4.0-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.0/bOden-Android-0.4.0-debug.apk",
-  "sha256": "cb6529332a9cd0e0dc7577b6abf5e207ca04ff78c097b4742322a5a3c839f36b",
+  "version": "0.4.1",
+  "versionCode": 401,
+  "name": "bOden Android 0.4.1",
+  "notes": "GeoDIN-Export auf Android korrigiert: Leere optionale Projekt-, Koordinaten-, Schicht- und GWM-Werte werden nun sicher als nicht gesetzte MDB-Felder behandelt. Der Fehler 'empty String' beim Export kombinierter RKS- und GWM-Daten ist behoben. Projekte und Einstellungen bleiben beim Update erhalten.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.1/bOden-Android-0.4.1-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.1/bOden-Android-0.4.1-debug.apk",
+  "sha256": "dd61bcb195f3a2bd9f31a01b0619c3a21f4945cd1ebbf6ff1dab4114670cf1cd",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
