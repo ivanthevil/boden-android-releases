@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
-  "versionCode": 401,
-  "name": "bOden Android 0.4.1",
-  "notes": "GeoDIN-Export auf Android korrigiert: Leere optionale Projekt-, Koordinaten-, Schicht- und GWM-Werte werden nun sicher als nicht gesetzte MDB-Felder behandelt. Der Fehler 'empty String' beim Export kombinierter RKS- und GWM-Daten ist behoben. Projekte und Einstellungen bleiben beim Update erhalten.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.1/bOden-Android-0.4.1-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.1/bOden-Android-0.4.1-debug.apk",
-  "sha256": "dd61bcb195f3a2bd9f31a01b0619c3a21f4945cd1ebbf6ff1dab4114670cf1cd",
+  "version": "0.4.2",
+  "versionCode": 402,
+  "name": "bOden Android 0.4.2",
+  "notes": "Neue gruppierte Kopfzeile mit klar getrennten Bereichen für Navigation, App-Bereiche, Punktanlage und Dokumentaktionen. In der Rammsondierung legt + RAMME jetzt die nächste unabhängige DPL/DPM/DPH im selben Bauvorhaben an. Das Tablet-Layout bleibt horizontal bedienbar; Projekte und Einstellungen bleiben beim Update erhalten.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.2/bOden-Android-0.4.2-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.2/bOden-Android-0.4.2-debug.apk",
+  "sha256": "10e29162c3dfc060b7ed63f9fb42e284728e86f6ac3a0a0005cfa4d8be056f3b",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
