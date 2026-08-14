@@ -1,11 +1,11 @@
 {
-  "version": "0.4.2",
-  "versionCode": 402,
-  "name": "bOden Android 0.4.2",
-  "notes": "Neue gruppierte Kopfzeile mit klar getrennten Bereichen für Navigation, App-Bereiche, Punktanlage und Dokumentaktionen. In der Rammsondierung legt + RAMME jetzt die nächste unabhängige DPL/DPM/DPH im selben Bauvorhaben an. Das Tablet-Layout bleibt horizontal bedienbar; Projekte und Einstellungen bleiben beim Update erhalten.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.2/bOden-Android-0.4.2-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.2/bOden-Android-0.4.2-debug.apk",
-  "sha256": "10e29162c3dfc060b7ed63f9fb42e284728e86f6ac3a0a0005cfa4d8be056f3b",
+  "version": "0.4.3",
+  "versionCode": 403,
+  "name": "bOden Android 0.4.3",
+  "notes": "Scrollbarfreie Tablet-Navigation mit dauerhaft sichtbarer Bereichsleiste. RAMME-Wiederherstellung ohne Beschreibung und ohne Nullschläge. PDF-Fotos werden nicht mehr gestreckt; die Bohrkern-Fotodokumentation übernimmt das kompakte Windows-Raster mit drei Kisten pro Seite.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.3/bOden-Android-0.4.3-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.3/bOden-Android-0.4.3-debug.apk",
+  "sha256": "18097b2523ad2203cd6db85cfb415786db236af481a753d32746c963de73f2ba",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
