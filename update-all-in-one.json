@@ -1,11 +1,11 @@
 {
-  "version": "0.4.6",
-  "versionCode": 406,
-  "name": "bOden Android 0.4.6",
-  "notes": "GWM heißt jetzt PEGEL und unterstützt GWM sowie Bodenluft-Pegel (BLP). Manager- und PDF-Profile besitzen vollständige Endkonstruktionen und ENDTIEFE; Multi Punkt Edit benennt Punktarten sicher in Serie um.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.6/bOden-Android-0.4.6-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.6/bOden-Android-0.4.6-debug.apk",
-  "sha256": "c883e2c6b65690109b36ee02142ff60e8c83493727f50ee88a502031ad7b8de2",
+  "version": "0.4.7",
+  "versionCode": 407,
+  "name": "bOden Android 0.4.7",
+  "notes": "Multi Punkt Edit übernimmt Serienumbenennungen nun auch bei doppelten Ausgangsnamen sicher. Der Manager verknüpft RKS/KRB, DPH und PEGEL nach ihren sichtbaren Punktnamen, zeigt fehlende Schichtintervalle eindeutig statt als Leerfläche und stellt DPH-Balken sowie GWM-/BLP-Ausbau vollständig und einheitlich dar.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.7/bOden-Android-0.4.7-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.7/bOden-Android-0.4.7-debug.apk",
+  "sha256": "fb06ad50d77951e71b925ecd82fb2bc0da96099c4aa7d98a854c704b102bdc8f",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
