@@ -1,11 +1,11 @@
 {
-  "version": "0.4.5",
-  "versionCode": 405,
-  "name": "bOden Android 0.4.5",
-  "notes": "Die LPV-Kopfzeile nutzt die bisher freie linke Fläche für Punktaktionen. Dokumentaktionen füllen die zweite Zeile; LPV-Titel, Modulschalter und Messuhr-Überschrift bleiben mit Android-Schriftmetriken innerhalb ihrer Rahmen.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.5/bOden-Android-0.4.5-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.5/bOden-Android-0.4.5-debug.apk",
-  "sha256": "3aa2cb61d960f889f832a7074a5e5efdc3371235a1cc36001460c1ed20c0ab3a",
+  "version": "0.4.6",
+  "versionCode": 406,
+  "name": "bOden Android 0.4.6",
+  "notes": "GWM heißt jetzt PEGEL und unterstützt GWM sowie Bodenluft-Pegel (BLP). Manager- und PDF-Profile besitzen vollständige Endkonstruktionen und ENDTIEFE; Multi Punkt Edit benennt Punktarten sicher in Serie um.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.6/bOden-Android-0.4.6-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.6/bOden-Android-0.4.6-debug.apk",
+  "sha256": "c883e2c6b65690109b36ee02142ff60e8c83493727f50ee88a502031ad7b8de2",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
