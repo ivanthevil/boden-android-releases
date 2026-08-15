@@ -1,11 +1,11 @@
 {
-  "version": "0.4.7",
-  "versionCode": 407,
-  "name": "bOden Android 0.4.7",
-  "notes": "Multi Punkt Edit übernimmt Serienumbenennungen nun auch bei doppelten Ausgangsnamen sicher. Der Manager verknüpft RKS/KRB, DPH und PEGEL nach ihren sichtbaren Punktnamen, zeigt fehlende Schichtintervalle eindeutig statt als Leerfläche und stellt DPH-Balken sowie GWM-/BLP-Ausbau vollständig und einheitlich dar.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.7/bOden-Android-0.4.7-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.7/bOden-Android-0.4.7-debug.apk",
-  "sha256": "fb06ad50d77951e71b925ecd82fb2bc0da96099c4aa7d98a854c704b102bdc8f",
+  "version": "0.4.8",
+  "versionCode": 408,
+  "name": "bOden Android 0.4.8",
+  "notes": "Dünne Schichten im Manager werden nun kompakt in einer Zeile dargestellt. Tiefenbereich und vollständige Schichtbeschreibung bleiben dadurch auch bei sehr geringer Mächtigkeit lesbar, ohne die maßstäblichen Schichtgrenzen zu verschieben.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.8/bOden-Android-0.4.8-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.8/bOden-Android-0.4.8-debug.apk",
+  "sha256": "7cc193b0fd4326244584d4aa385ccee2a05a20008718d3825b908da5671a2028",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
