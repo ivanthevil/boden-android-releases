@@ -3,12 +3,11 @@
 Installierbare Android-Tablet-Version von bOden. Das Repository enthaelt das
 Update-Manifest; installierbare APKs liegen unter **Releases**.
 
-Aktuell: **0.2.0 Tablet-Beta**
+Aktuell: **0.4.5 Android-Tablet**
 
 - Projekte und Feldpunkte offline erfassen
 - Synchronisation mit dem bOden-Server
-- Rueckbauprotokolle, Kamera und PDF/DOCX
+- Gemeinsame bOden-Oberflaeche mit RKS, Ramme, GWM, LPV, Versickerung, Rueckbau und Bohrkern-Fotodokumentation
+- Plattformuebergreifend identische PDF-Renderer und Layoutvorlagen
 - NIIMBOT-Etikettendruck ueber Bluetooth LE
-
-Hinweis: GeoDIN MDB/ACCDB wird wegen Microsoft-Access-/DAO-Abhaengigkeiten auf
-einer bOden-Windows-Station erzeugt, nicht lokal auf Android.
+- GeoDIN-MDB-Export direkt auf Android
