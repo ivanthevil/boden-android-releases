@@ -1,11 +1,11 @@
 {
-  "version": "0.4.3",
-  "versionCode": 403,
-  "name": "bOden Android 0.4.3",
-  "notes": "Scrollbarfreie Tablet-Navigation mit dauerhaft sichtbarer Bereichsleiste. RAMME-Wiederherstellung ohne Beschreibung und ohne Nullschläge. PDF-Fotos werden nicht mehr gestreckt; die Bohrkern-Fotodokumentation übernimmt das kompakte Windows-Raster mit drei Kisten pro Seite.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.3/bOden-Android-0.4.3-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.3/bOden-Android-0.4.3-debug.apk",
-  "sha256": "18097b2523ad2203cd6db85cfb415786db236af481a753d32746c963de73f2ba",
+  "version": "0.4.4",
+  "versionCode": 404,
+  "name": "bOden Android 0.4.4",
+  "notes": "Linke Bereichsleiste entfernt und globale Bereiche kompakt in der Kopfzeile integriert. Alle Android-PDFs verwenden jetzt dieselben Renderer, Logos und Vorlagen wie Windows; RKS/Fotos, RAMME/GWM, LPV, Versickerung, Rückbau, Bohrkern-Fotodokumentation und Etiketten wurden gerendert geprüft.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.4/bOden-Android-0.4.4-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.4/bOden-Android-0.4.4-debug.apk",
+  "sha256": "796ffed1ebafefd86da8fbb3f0bae49a1acc7977f3079aa5f0145b9c2d35616e",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
