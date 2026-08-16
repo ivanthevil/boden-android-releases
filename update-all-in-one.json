@@ -1,11 +1,11 @@
 {
-  "version": "0.4.10",
-  "versionCode": 410,
-  "name": "bOden Android 0.4.10",
-  "notes": "Der Projektplan nutzt die Kartenfläche im PDF vollständig, richtet Trennlinien sauber unter dem Text aus und zeigt Punktnamen mit gleichmäßigem Innenabstand. Die neue Symbolbibliothek steht plattformgleich bereit.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.10/bOden-Android-0.4.10-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.10/bOden-Android-0.4.10-debug.apk",
-  "sha256": "76390c56daf521c5b5cb8f1d1680b33c07865e74e2a16ad9a305f32e71480172",
+  "version": "0.4.11",
+  "versionCode": 411,
+  "name": "bOden Android 0.4.11",
+  "notes": "Behebt den weißen Bildschirm nach dem Update: Die synchronisierte Windows-Oberfläche bindet React jetzt robust als Namespace ein; zusätzlich wird React beim Android-Start defensiv bereitgestellt. Der Produktionsstart wurde in einem frischen Browserkontext ohne Laufzeitfehler geprüft.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.11/bOden-Android-0.4.11-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.11/bOden-Android-0.4.11-debug.apk",
+  "sha256": "b94911cbec9c7a0220798d84f5c11f1112a1bc97be945f9c6b7c8f94fba0e332",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
