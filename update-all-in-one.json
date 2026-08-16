@@ -1,11 +1,11 @@
 {
-  "version": "0.4.8",
-  "versionCode": 408,
-  "name": "bOden Android 0.4.8",
-  "notes": "Dünne Schichten im Manager werden nun kompakt in einer Zeile dargestellt. Tiefenbereich und vollständige Schichtbeschreibung bleiben dadurch auch bei sehr geringer Mächtigkeit lesbar, ohne die maßstäblichen Schichtgrenzen zu verschieben.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.8/bOden-Android-0.4.8-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.8/bOden-Android-0.4.8-debug.apk",
-  "sha256": "7cc193b0fd4326244584d4aa385ccee2a05a20008718d3825b908da5671a2028",
+  "version": "0.4.9",
+  "versionCode": 409,
+  "name": "bOden Android 0.4.9",
+  "notes": "Der Projektplan exportiert Satellitenkarten jetzt hochauflösend und unverzerrt. In der Druckvorschau stehen eine kompakte Fußzeile rechts und eine vertikale Infospalte mit Projektdaten, Legende und Fortschritt zur Auswahl.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.9/bOden-Android-0.4.9-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.9/bOden-Android-0.4.9-debug.apk",
+  "sha256": "39e4e15c6c9bfb283ccb33f90d40d37623e08183658946ad34862dcab7ea0860",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
