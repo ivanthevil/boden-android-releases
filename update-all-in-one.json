@@ -1,11 +1,11 @@
 {
-  "version": "0.4.12",
-  "versionCode": 412,
-  "name": "bOden Android 0.4.12",
-  "notes": "Projektplan auf Tablets optimiert: kompakte Positionslupe, deutlich größere scrollbar bleibende Punkt- und Statuslisten sowie robuste Zusammenführung verknüpfter KRB/RKS- und DPH-Punkte unabhängig von der Datensatzreihenfolge.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.12/bOden-Android-0.4.12-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.12/bOden-Android-0.4.12-debug.apk",
-  "sha256": "5b54d9c05e38935da2b122f362b97b03136766a1a589e7f449880fabc097eabb",
+  "version": "0.4.13",
+  "versionCode": 413,
+  "name": "bOden Android 0.4.13",
+  "notes": "Datensicheres Sync-Update: Projekte werden anhand von Projektnummer und Bauvorhaben verlustfrei vereinigt, Punkte über stabile IDs und logische Namen entdoppelt, Revisionskonflikte automatisch neu abgeglichen und vor jeder Konsolidierung lokal gesichert. Server- oder Gerätelücken löschen keine Punkte. KRB 12 und KRB 18 in TAB260175 sind wiederhergestellt. Der APK-Downloadweg wurde für ältere Android-Versionen vereinfacht.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.13-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.13-debug.apk",
+  "sha256": "bf9e65ebba618938567bafc9aafec648e02bc9b71e7c0e85d9ede17a6702e6ef",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
