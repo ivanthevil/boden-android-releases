@@ -1,11 +1,11 @@
 {
-  "version": "0.4.14",
-  "versionCode": 414,
-  "name": "bOden Android 0.4.14",
-  "notes": "Punktnamen werden jetzt über die stabile Punkt-ID geändert: Umbenennen ersetzt den bestehenden Punkt, erzeugt keine Kopie und bereinigt bereits doppelt übermittelte Einträge derselben ID. Projektwechsel erfolgen erst nach sicherem Speichern des Ziels; Namenskonflikte werden abgefangen. Enthält den vollständigen aktuellen Windows-UI-, Projektplan-, Manager-, Pegel- und Synchronisationsstand.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.14-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.14-debug.apk",
-  "sha256": "0a7eb021f6479527f1f37f559d7c38f89add8a059148f326e5354b9ac87e2e05",
+  "version": "0.4.15",
+  "versionCode": 415,
+  "name": "bOden Android 0.4.15",
+  "notes": "GeoDIN hat Priorität: Android verwendet jetzt exakt dieselbe vollständige Feldzuordnung und dieselbe registrierte Produktionsvorlage wie Windows. Projekt- und Punktstammdaten, Schichten, Proben, Rammsondierungen sowie GWM-/BLP-Pegelausbau werden tabellen- und feldtreu geschrieben. Der Export unterstützt beide vorkommenden Sondierdaten-Schemata und schützt bei Mehrprojekt-Exporten vor kollidierenden GeoDIN-Projektkennungen.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.15-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.15-debug.apk",
+  "sha256": "49b5f96fc7538f8c34ee7fb13d61abe6187c873209b690fa561f8731a8366832",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
