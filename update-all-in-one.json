@@ -1,11 +1,11 @@
 {
-  "version": "0.4.15",
-  "versionCode": 415,
-  "name": "bOden Android 0.4.15",
-  "notes": "GeoDIN hat Priorität: Android verwendet jetzt exakt dieselbe vollständige Feldzuordnung und dieselbe registrierte Produktionsvorlage wie Windows. Projekt- und Punktstammdaten, Schichten, Proben, Rammsondierungen sowie GWM-/BLP-Pegelausbau werden tabellen- und feldtreu geschrieben. Der Export unterstützt beide vorkommenden Sondierdaten-Schemata und schützt bei Mehrprojekt-Exporten vor kollidierenden GeoDIN-Projektkennungen.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.15-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.15-debug.apk",
-  "sha256": "49b5f96fc7538f8c34ee7fb13d61abe6187c873209b690fa561f8731a8366832",
+  "version": "0.4.16",
+  "versionCode": 416,
+  "name": "bOden Android 0.4.16",
+  "notes": "Manager-Profilblätter entsprechen dem neuen Windows-Stand: A4-Einzelprofile und A3-Mehrprofil-Vergleiche, größere Rammsondierungsdiagramme, gemeinsame Tiefenachse sowie farbige, DIN-orientierte und sauber zentrierte Bodensignaturen.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.16-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.16-debug.apk",
+  "sha256": "1e24a0177b82fe58e2583987b4390c112ffb32e9f6ddf61af28306182ae25f08",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
