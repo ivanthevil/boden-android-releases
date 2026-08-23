@@ -1,11 +1,11 @@
 {
-  "version": "0.4.16",
-  "versionCode": 416,
-  "name": "bOden Android 0.4.16",
-  "notes": "Manager-Profilblätter entsprechen dem neuen Windows-Stand: A4-Einzelprofile und A3-Mehrprofil-Vergleiche, größere Rammsondierungsdiagramme, gemeinsame Tiefenachse sowie farbige, DIN-orientierte und sauber zentrierte Bodensignaturen.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.16-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.16-debug.apk",
-  "sha256": "1e24a0177b82fe58e2583987b4390c112ffb32e9f6ddf61af28306182ae25f08",
+  "version": "0.4.17",
+  "versionCode": 417,
+  "name": "bOden Android 0.4.17",
+  "notes": "Android-Managerprofile funktionieren nun vollständig lokal in Vorschau und PDF. Korrigiert wurden Überschriften, gemeinsame GOK-Linie, dynamische Zeichenerklärung, Bohrkern- und Endstatus sowie der detaillierte GWM-/BLP-Ausbau mit Kappe, Voll- und Filterrohr.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.17-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.17-debug.apk",
+  "sha256": "020cec29a5c44fa3c5cbb4b07533107faa30c2a5296bcc6f6fe16b307904c02f",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
