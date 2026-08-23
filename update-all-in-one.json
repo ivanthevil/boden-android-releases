@@ -1,11 +1,11 @@
 {
-  "version": "0.4.24",
-  "versionCode": 424,
-  "name": "bOden Android 0.4.24",
-  "notes": "Manager-Profilblatt: PROFILBLATT steht direkt beim Punktnamen; die doppelte rechte Beschriftung entfällt. Das TABERG-Logo ist größer und drucksicher tiefer gesetzt. KRM wird fachlich korrekt als kein Rammfortschritt erklärt. Aktuelle Vorschauen überschreiben sich nicht mehr gegenseitig und Bohrkern-Materialangaben bleiben sichtbar.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.24-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.24-debug.apk",
-  "sha256": "44f4a366f0348645829ee744cfa3835140ef53dd3bb420c81dc90c71cbfe5738",
+  "version": "0.4.25",
+  "versionCode": 425,
+  "name": "bOden Android 0.4.25",
+  "notes": "Manager-Profilvergleich: Bei genau zwei Profilen nutzen Schichtenbeschreibung, DPH-Diagramm und N10-Werte die A3-Seite jetzt kompakt und gleichmäßig. Große ungenutzte Zwischenräume entfallen; Diagramme und Zahlen bleiben breit und lesbar.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.25-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.25-debug.apk",
+  "sha256": "3ba3b03cc87ff734dfb5dd13c3c72f870a28bd4684044b7da5fb9b486cd227e1",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
