@@ -1,11 +1,11 @@
 {
-  "version": "0.4.20",
-  "versionCode": 420,
-  "name": "bOden Android 0.4.20",
-  "notes": "Manager-Profilblatt: DPH-Endzeile, Pegelbeschriftung, Grundwasserpfeil und geordneter Fußbereich entsprechen der Windows-Darstellung.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.20-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.20-debug.apk",
-  "sha256": "0b0756f4b67affdf5c49e8acaf513b3ee99c468230d4c3a4734f101ca81d50ed",
+  "version": "0.4.21",
+  "versionCode": 421,
+  "name": "bOden Android 0.4.21",
+  "notes": "Manager-Profilblatt: gespeicherte Bohrkerncodes wie BK-Be werden zuverlässig als materialgerechter Bohrkern mit passender Signatur dargestellt.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.21-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.21-debug.apk",
+  "sha256": "fa24fd98fb4c16934acd4cc0d5fa436e51da3d9010fe927ae1eb5a64c1d79ffa",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
