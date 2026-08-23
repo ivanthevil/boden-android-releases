@@ -1,11 +1,11 @@
 {
-  "version": "0.4.17",
-  "versionCode": 417,
-  "name": "bOden Android 0.4.17",
-  "notes": "Android-Managerprofile funktionieren nun vollständig lokal in Vorschau und PDF. Korrigiert wurden Überschriften, gemeinsame GOK-Linie, dynamische Zeichenerklärung, Bohrkern- und Endstatus sowie der detaillierte GWM-/BLP-Ausbau mit Kappe, Voll- und Filterrohr.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.17-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.17-debug.apk",
-  "sha256": "020cec29a5c44fa3c5cbb4b07533107faa30c2a5296bcc6f6fe16b307904c02f",
+  "version": "0.4.18",
+  "versionCode": 418,
+  "name": "bOden Android 0.4.18",
+  "notes": "Manager-Profile: getrennte Kopfzeilen für Bohrprofil, DPH und BLP/GWM; materialgerechte Bohrkern-Signaturen und Beschriftungen; breitere Rammstatusspalte sowie klar gegliederte Zeichenerklärung.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.18-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.18-debug.apk",
+  "sha256": "7a340efffa58a5e4dbde3fafe8448184c4eed76cfd12ddaaf9c3148aa158de50",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
