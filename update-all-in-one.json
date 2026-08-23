@@ -1,11 +1,11 @@
 {
-  "version": "0.4.21",
-  "versionCode": 421,
-  "name": "bOden Android 0.4.21",
-  "notes": "Manager-Profilblatt: gespeicherte Bohrkerncodes wie BK-Be werden zuverlässig als materialgerechter Bohrkern mit passender Signatur dargestellt.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.21-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.21-debug.apk",
-  "sha256": "fa24fd98fb4c16934acd4cc0d5fa436e51da3d9010fe927ae1eb5a64c1d79ffa",
+  "version": "0.4.22",
+  "versionCode": 422,
+  "name": "bOden Android 0.4.22",
+  "notes": "Manager-Profilblatt: Bohrkerne werden zuverlässig bezeichnet, die letzte N10-Zahl bleibt frei sichtbar und der drucksichere Fußbereich zeigt das TABERG-Logo unverzerrt.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.22-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.22-debug.apk",
+  "sha256": "fd054bd06e6e2c2151f03d9fe8a01a19d0602e8d10ae3a97aacca9a4e93dfc03",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
