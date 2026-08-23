@@ -1,11 +1,11 @@
 {
-  "version": "0.4.23",
-  "versionCode": 423,
-  "name": "bOden Android 0.4.23",
-  "notes": "Manager-Profilblatt: Die Spitze der Wasserstandsmarke sitzt in Vorschau und PDF exakt auf der zugehörigen Tiefenlinie.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.23-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.23-debug.apk",
-  "sha256": "42aa3c5b4595a6876c53240b56d832796c719c15064a56bee06fc20aef775c3c",
+  "version": "0.4.24",
+  "versionCode": 424,
+  "name": "bOden Android 0.4.24",
+  "notes": "Manager-Profilblatt: PROFILBLATT steht direkt beim Punktnamen; die doppelte rechte Beschriftung entfällt. Aktuelle Vorschauen überschreiben sich nicht mehr gegenseitig und Bohrkern-Materialangaben bleiben sichtbar.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.24-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.24-debug.apk",
+  "sha256": "77e123f0125a771273be609ac2840384b99fe8f840af994604512f60defeb46f",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
