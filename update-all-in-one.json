@@ -1,11 +1,11 @@
 {
-  "version": "0.4.25",
-  "versionCode": 425,
-  "name": "bOden Android 0.4.25",
-  "notes": "Manager-Profilvergleich: Bei genau zwei Profilen nutzen Schichtenbeschreibung, DPH-Diagramm und N10-Werte die A3-Seite jetzt kompakt und gleichmäßig. Große ungenutzte Zwischenräume entfallen; Diagramme und Zahlen bleiben breit und lesbar.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.25-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.25-debug.apk",
-  "sha256": "3ba3b03cc87ff734dfb5dd13c3c72f870a28bd4684044b7da5fb9b486cd227e1",
+  "version": "0.4.26",
+  "versionCode": 426,
+  "name": "bOden Android 0.4.26",
+  "notes": "Manager-Profilvergleich: Bei drei und vier Profilen nutzt die A3-Ausgabe jetzt gleich breite, getrennte Korridore für Schichtsignatur, Bodenansprache, GW-Hinweise, DPH/N10 und Pegelausbau. Lange Texte werden passend umbrochen und begrenzt; auch bei maximal vier Profilen entstehen keine Überlappungen.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.26-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.26-debug.apk",
+  "sha256": "69ed43fcade90acfd86bdacb49e90c0e5eb22d6692173e90b5a1ea016922149f",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
