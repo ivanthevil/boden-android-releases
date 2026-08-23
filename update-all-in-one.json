@@ -1,11 +1,11 @@
 {
-  "version": "0.4.18",
-  "versionCode": 418,
-  "name": "bOden Android 0.4.18",
-  "notes": "Manager-Profile: getrennte Kopfzeilen für Bohrprofil, DPH und BLP/GWM; materialgerechte Bohrkern-Signaturen und Beschriftungen; breitere Rammstatusspalte sowie klar gegliederte Zeichenerklärung.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.18-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.18-debug.apk",
-  "sha256": "7a340efffa58a5e4dbde3fafe8448184c4eed76cfd12ddaaf9c3148aa158de50",
+  "version": "0.4.19",
+  "versionCode": 419,
+  "name": "bOden Android 0.4.19",
+  "notes": "Manager-Profile: sichere Punktverknüpfung, materialgerechte Kernsignaturen, kB-Endstatus, angebohrtes Wasser, GOK, Pegelüberstand und eigener GWM-Wasserstand; gleicher Profilrenderer wie Windows.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.19-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.19-debug.apk",
+  "sha256": "9c865a799a4581e3f3113e787f142b656459201e856f3a46d7f1ed4c3ad76142",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
