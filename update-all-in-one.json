@@ -1,11 +1,11 @@
 {
-  "version": "0.4.22",
-  "versionCode": 422,
-  "name": "bOden Android 0.4.22",
-  "notes": "Manager-Profilblatt: Bohrkerne werden zuverlässig bezeichnet, die letzte N10-Zahl bleibt frei sichtbar und der drucksichere Fußbereich zeigt das TABERG-Logo unverzerrt.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.22-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.22-debug.apk",
-  "sha256": "fd054bd06e6e2c2151f03d9fe8a01a19d0602e8d10ae3a97aacca9a4e93dfc03",
+  "version": "0.4.23",
+  "versionCode": 423,
+  "name": "bOden Android 0.4.23",
+  "notes": "Manager-Profilblatt: Die Spitze der Wasserstandsmarke sitzt in Vorschau und PDF exakt auf der zugehörigen Tiefenlinie.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.23-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.23-debug.apk",
+  "sha256": "42aa3c5b4595a6876c53240b56d832796c719c15064a56bee06fc20aef775c3c",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"

@@ -3,7 +3,7 @@
 Installierbare Android-Tablet-Version von bOden. Das Repository enthaelt das
 Update-Manifest; installierbare APKs liegen unter **Releases**.
 
-Aktuell: **0.4.22 Android-Tablet**
+Aktuell: **0.4.23 Android-Tablet**
 
 - Projekte und Feldpunkte offline erfassen
 - Synchronisation mit dem bOden-Server
