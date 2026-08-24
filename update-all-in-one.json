@@ -1,11 +1,11 @@
 {
-  "version": "0.4.26",
-  "versionCode": 426,
-  "name": "bOden Android 0.4.26",
-  "notes": "Manager-Profilvergleich: Bei drei und vier Profilen nutzt die A3-Ausgabe jetzt gleich breite, getrennte Korridore für Schichtsignatur, Bodenansprache, GW-Hinweise, DPH/N10 und Pegelausbau. Lange Texte werden passend umbrochen und begrenzt; auch bei maximal vier Profilen entstehen keine Überlappungen.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.26-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.26-debug.apk",
-  "sha256": "69ed43fcade90acfd86bdacb49e90c0e5eb22d6692173e90b5a1ea016922149f",
+  "version": "0.4.27",
+  "versionCode": 427,
+  "name": "bOden Android 0.4.27",
+  "notes": "Bauvorhaben Edit repariert: Auch synchronisierte und ältere Projektdateien mit punktbezogenen Metadaten werden zuverlässig erkannt. Nur passende Punkte werden verschoben; andere Punkte bleiben erhalten und doppelte Datensätze werden vermieden.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.27-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.27-debug.apk",
+  "sha256": "3de4ea743cac60d9c1630b07888b707864bd1566623aa47efdbde6161070524b",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
