@@ -1,11 +1,11 @@
 {
-  "version": "0.4.27",
-  "versionCode": 427,
-  "name": "bOden Android 0.4.27",
+  "version": "0.4.28",
+  "versionCode": 428,
+  "name": "bOden Android 0.4.28",
   "notes": "Bauvorhaben Edit repariert: Auch synchronisierte und ältere Projektdateien mit punktbezogenen Metadaten werden zuverlässig erkannt. Nur passende Punkte werden verschoben; andere Punkte bleiben erhalten und doppelte Datensätze werden vermieden.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.27-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.27-debug.apk",
-  "sha256": "3de4ea743cac60d9c1630b07888b707864bd1566623aa47efdbde6161070524b",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.28-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.28-debug.apk",
+  "sha256": "985cdf2cb5f74402a6ac06ddaec785480556549d8132417c4c390982f373ccfc",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
