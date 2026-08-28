@@ -1,11 +1,11 @@
 {
-  "version": "0.4.28",
-  "versionCode": 428,
-  "name": "bOden Android 0.4.28",
-  "notes": "Bauvorhaben Edit repariert: Auch synchronisierte und ältere Projektdateien mit punktbezogenen Metadaten werden zuverlässig erkannt. Nur passende Punkte werden verschoben; andere Punkte bleiben erhalten und doppelte Datensätze werden vermieden.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.28-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.28-debug.apk",
-  "sha256": "985cdf2cb5f74402a6ac06ddaec785480556549d8132417c4c390982f373ccfc",
+  "version": "0.4.29",
+  "versionCode": 429,
+  "name": "bOden Android 0.4.29",
+  "notes": "GeoDIN-Auffüllungen werden mit a und allen tatsächlichen Bestandteilen exportiert; GENESE bleibt y und GRUPPE leer. Die Signaturgrundlage ist entfernt. Natürliche Auffüllungen ohne Fremdstoffe erhalten Boden inhomogen. Eindeutige Punktkennungen verhindern unvollständige Mehrpunktexporte.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.29-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.29-debug.apk",
+  "sha256": "03138e01b73af11bb3fe2d4b5e61964d9d5752bf5f4a0964b6d808746765d987",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
