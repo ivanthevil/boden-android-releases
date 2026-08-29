@@ -1,11 +1,11 @@
 {
-  "version": "0.4.29",
-  "versionCode": 429,
-  "name": "bOden Android 0.4.29",
-  "notes": "GeoDIN-Auffüllungen werden mit a und allen tatsächlichen Bestandteilen exportiert; GENESE bleibt y und GRUPPE leer. Die Signaturgrundlage ist entfernt. Natürliche Auffüllungen ohne Fremdstoffe erhalten Boden inhomogen. Eindeutige Punktkennungen verhindern unvollständige Mehrpunktexporte.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.29-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.29-debug.apk",
-  "sha256": "03138e01b73af11bb3fe2d4b5e61964d9d5752bf5f4a0964b6d808746765d987",
+  "version": "0.4.30",
+  "versionCode": 430,
+  "name": "bOden Android 0.4.30",
+  "notes": "Manager und Profile Composer erkennen Bohrkerne nur noch aus den Schichtdaten. Eine normale erste Schicht wird nicht mehr allein wegen der Punktbezeichnung KRB als Bohrkern dargestellt.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.30-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.30-debug.apk",
+  "sha256": "cb1a10e193a0020df652bd44598a3c5dc860cb9bc696c51d289371ccbab8ece3",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
