@@ -1,11 +1,11 @@
 {
-  "version": "0.4.30",
-  "versionCode": 430,
-  "name": "bOden Android 0.4.30",
-  "notes": "Manager und Profile Composer erkennen Bohrkerne nur noch aus den Schichtdaten. Eine normale erste Schicht wird nicht mehr allein wegen der Punktbezeichnung KRB als Bohrkern dargestellt.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.30-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.30-debug.apk",
-  "sha256": "cb1a10e193a0020df652bd44598a3c5dc860cb9bc696c51d289371ccbab8ece3",
+  "version": "0.4.31",
+  "versionCode": 431,
+  "name": "bOden Android 0.4.31",
+  "notes": "Behebt den weißen Bildschirm beim Start von Android 0.4.30. Die synchronisierte GeoDIN-Referenz wird jetzt ohne Windows-require im Android-WebView geladen.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.31-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.31-debug.apk",
+  "sha256": "377c11bedf657d3db944936eb89cf96885f6e2cd19cb5f0e8abcb3bcecc2a302",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
