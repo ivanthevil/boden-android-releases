@@ -1,11 +1,11 @@
 {
-  "version": "0.4.33",
-  "versionCode": 433,
-  "name": "bOden Android 0.4.33",
-  "notes": "Android enthält den neuen GeoDIN-orientierten Profile Composer mit adaptiven Führungslinien, einheitlicher Schichttypografie, projektweit einheitlicher DPH-Tiefenskala sowie kollisionsfreien GW- und GOK-Markierungen.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.33-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.33-debug.apk",
-  "sha256": "6C5B7AB9BEDACABECB42DB5B4428ECA42378D0A8940069AF878654E7A1994F06",
+  "version": "0.4.34",
+  "versionCode": 434,
+  "name": "bOden Android 0.4.34",
+  "notes": "bOden prüft beim Start automatisch auf neue Updates und bietet UPDATE, SPÄTER oder IGNORIEREN an. Zusätzlich enthält Android den aktuellen Windows-Funktionsstand sowie die automatische Hintergrundsicherung.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.34-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.34-debug.apk",
+  "sha256": "FEA97A4CE13A731CDE3A6C0FF669C7314980F2AF562024BEE995EFA155B87585",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
