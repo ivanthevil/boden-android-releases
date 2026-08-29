@@ -1,11 +1,11 @@
 {
-  "version": "0.4.31",
-  "versionCode": 431,
-  "name": "bOden Android 0.4.31",
-  "notes": "Behebt den weißen Bildschirm beim Start von Android 0.4.30. Die synchronisierte GeoDIN-Referenz wird jetzt ohne Windows-require im Android-WebView geladen.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.31-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.31-debug.apk",
-  "sha256": "377c11bedf657d3db944936eb89cf96885f6e2cd19cb5f0e8abcb3bcecc2a302",
+  "version": "0.4.32",
+  "versionCode": 432,
+  "name": "bOden Android 0.4.32",
+  "notes": "Android ist auf dem Stand der Windows-Oberfläche 0.1.212. Enthalten sind der vollständige GeoDIN-/Fugro-Signaturkatalog mit 65 DIN-4023-Signaturen, originale Signaturen in der Profilvorschau sowie der identische Windows-Renderer für den Profil-PDF-Export.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.32-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.32-debug.apk",
+  "sha256": "0837f5dc049ce310e6c3ee83a659e0db438efabfde118af8255cf472dbcd150c",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
