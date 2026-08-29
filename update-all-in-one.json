@@ -1,11 +1,11 @@
 {
-  "version": "0.4.32",
-  "versionCode": 432,
-  "name": "bOden Android 0.4.32",
-  "notes": "Android ist auf dem Stand der Windows-Oberfläche 0.1.212. Enthalten sind der vollständige GeoDIN-/Fugro-Signaturkatalog mit 65 DIN-4023-Signaturen, originale Signaturen in der Profilvorschau sowie der identische Windows-Renderer für den Profil-PDF-Export.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.32-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.32-debug.apk",
-  "sha256": "0837f5dc049ce310e6c3ee83a659e0db438efabfde118af8255cf472dbcd150c",
+  "version": "0.4.33",
+  "versionCode": 433,
+  "name": "bOden Android 0.4.33",
+  "notes": "Android enthält den neuen GeoDIN-orientierten Profile Composer mit adaptiven Führungslinien, einheitlicher Schichttypografie, projektweit einheitlicher DPH-Tiefenskala sowie kollisionsfreien GW- und GOK-Markierungen.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.33-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.33-debug.apk",
+  "sha256": "6C5B7AB9BEDACABECB42DB5B4428ECA42378D0A8940069AF878654E7A1994F06",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
