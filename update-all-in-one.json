@@ -1,11 +1,11 @@
 {
-  "version": "0.4.34",
-  "versionCode": 434,
-  "name": "bOden Android 0.4.34",
-  "notes": "bOden prüft beim Start automatisch auf neue Updates und bietet UPDATE, SPÄTER oder IGNORIEREN an. Zusätzlich enthält Android den aktuellen Windows-Funktionsstand sowie die automatische Hintergrundsicherung.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.34-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.34-debug.apk",
-  "sha256": "FEA97A4CE13A731CDE3A6C0FF669C7314980F2AF562024BEE995EFA155B87585",
+  "version": "0.4.35",
+  "versionCode": 435,
+  "name": "bOden Android 0.4.35",
+  "notes": "Punkte werden in Projekten und Bauvorhaben jetzt nach ihrer enthaltenen Punktnummer sortiert: 1, 2, 3 … 10 statt 1, 10, 2. Die Reihenfolge gilt einheitlich in Projektansicht, Manager, Profil- und Planauswahl, Fotos und Bohrkernauswahl.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.35-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.35-debug.apk",
+  "sha256": "502C46CA4989C2AA9F2CF55F8071F5419C96F5D5704B9AB26E1E2B1512FD1E40",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
