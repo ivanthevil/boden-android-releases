@@ -1,11 +1,11 @@
 {
-  "version": "0.4.35",
-  "versionCode": 435,
-  "name": "bOden Android 0.4.35",
-  "notes": "Punkte werden in Projekten und Bauvorhaben jetzt nach ihrer enthaltenen Punktnummer sortiert: 1, 2, 3 … 10 statt 1, 10, 2. Die Reihenfolge gilt einheitlich in Projektansicht, Manager, Profil- und Planauswahl, Fotos und Bohrkernauswahl.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.35-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.35-debug.apk",
-  "sha256": "502C46CA4989C2AA9F2CF55F8071F5419C96F5D5704B9AB26E1E2B1512FD1E40",
+  "version": "0.4.36",
+  "versionCode": 436,
+  "name": "bOden Android 0.4.36",
+  "notes": "Der bisherige SharePoint-Bereich heißt jetzt Upload Portal. Zwei direkte Schaltflächen öffnen SharePoint oder ShareSuite; die Android-Dateiauswahl kann Exporte weiterhin über den geschützten Teilen-Dialog an das gewünschte Ziel übergeben.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.36-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.36-debug.apk",
+  "sha256": "3f95a6c5bd19949c2c8f7f7159693609971f90e883131d26076312ac93dc8362",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
