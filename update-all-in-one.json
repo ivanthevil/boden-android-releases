@@ -1,11 +1,11 @@
 {
-  "version": "0.4.38",
-  "versionCode": 438,
-  "name": "bOden Android 0.4.38",
-  "notes": "Neue Punkte werden vor dem ersten bewussten Speichern nicht mehr unsichtbar durch den Hintergrund-Autosave angelegt. Bereits entstandene Autosave-Punkte können sicher übernommen und aktualisiert werden.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.38-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.38-debug.apk",
-  "sha256": "7435300ce75e418afbfe880a0c056d38dd7502588b4bae7dc226146a33848bf8",
+  "version": "0.4.39",
+  "versionCode": 439,
+  "name": "bOden Android 0.4.39",
+  "notes": "Kritischer Sicherheitsschutz: Überschreiben ist nur noch mit exakt bestätigter Datensatz-ID und exakt übereinstimmendem Punktnamen möglich. Vor jeder bestätigten Ersetzung wird automatisch eine Projektsicherung angelegt.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.39-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.39-debug.apk",
+  "sha256": "6c1b9f639c703f854fe2d9f8292bff901d1ff4915cb3b3dd2bc82ca5261c5755",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
