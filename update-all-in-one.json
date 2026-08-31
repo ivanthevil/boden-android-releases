@@ -1,11 +1,11 @@
 {
-  "version": "0.4.37",
-  "versionCode": 437,
-  "name": "bOden Android 0.4.37",
-  "notes": "Rammen in bestehenden Projekten speichern jetzt den sichtbaren Punktnamen zuverlässig, melden keine falschen Namensduplikate mehr und lassen sich über die zuletzt geöffneten Punkte wieder aufrufen. Ungesicherte Notfallkopien bleiben beim Projektwechsel erhalten.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.37-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.37-debug.apk",
-  "sha256": "f76625d86611705999d6629358e856fb9c7974f2a221655733f0879c2c7da018",
+  "version": "0.4.38",
+  "versionCode": 438,
+  "name": "bOden Android 0.4.38",
+  "notes": "Neue Punkte werden vor dem ersten bewussten Speichern nicht mehr unsichtbar durch den Hintergrund-Autosave angelegt. Bereits entstandene Autosave-Punkte können sicher übernommen und aktualisiert werden.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.38-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.38-debug.apk",
+  "sha256": "7435300ce75e418afbfe880a0c056d38dd7502588b4bae7dc226146a33848bf8",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
