@@ -1,11 +1,11 @@
 {
-  "version": "0.4.39",
-  "versionCode": 439,
-  "name": "bOden Android 0.4.39",
-  "notes": "Kritischer Sicherheitsschutz: Überschreiben ist nur noch mit exakt bestätigter Datensatz-ID und exakt übereinstimmendem Punktnamen möglich. Vor jeder bestätigten Ersetzung wird automatisch eine Projektsicherung angelegt.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.39-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.39-debug.apk",
-  "sha256": "6c1b9f639c703f854fe2d9f8292bff901d1ff4915cb3b3dd2bc82ca5261c5755",
+  "version": "0.4.40",
+  "versionCode": 440,
+  "name": "bOden Android 0.4.40",
+  "notes": "BD-Dateien öffnen jetzt automatisch im passenden Arbeitsbereich. Reine Rammsondierungen und markierte Rettungsdateien werden als RAMME statt als RKS geöffnet.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.40-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.40-debug.apk",
+  "sha256": "61c20f15b7e1965bc9df331b7255a08731fa919b96c1e5d4343330f3b27635db",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
