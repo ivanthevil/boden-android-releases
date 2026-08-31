@@ -1,11 +1,11 @@
 {
-  "version": "0.4.36",
-  "versionCode": 436,
-  "name": "bOden Android 0.4.36",
-  "notes": "Der bisherige SharePoint-Bereich heißt jetzt Upload Portal. Zwei direkte Schaltflächen öffnen SharePoint oder ShareSuite; die Android-Dateiauswahl kann Exporte weiterhin über den geschützten Teilen-Dialog an das gewünschte Ziel übergeben.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.36-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.36-debug.apk",
-  "sha256": "3f95a6c5bd19949c2c8f7f7159693609971f90e883131d26076312ac93dc8362",
+  "version": "0.4.37",
+  "versionCode": 437,
+  "name": "bOden Android 0.4.37",
+  "notes": "Rammen in bestehenden Projekten speichern jetzt den sichtbaren Punktnamen zuverlässig, melden keine falschen Namensduplikate mehr und lassen sich über die zuletzt geöffneten Punkte wieder aufrufen. Ungesicherte Notfallkopien bleiben beim Projektwechsel erhalten.",
+  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.37-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.37-debug.apk",
+  "sha256": "f76625d86611705999d6629358e856fb9c7974f2a221655733f0879c2c7da018",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
