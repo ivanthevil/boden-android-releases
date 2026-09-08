@@ -1,11 +1,11 @@
 {
-  "version": "0.4.40",
-  "versionCode": 440,
-  "name": "bOden Android 0.4.40",
-  "notes": "BD-Dateien öffnen jetzt automatisch im passenden Arbeitsbereich. Reine Rammsondierungen und markierte Rettungsdateien werden als RAMME statt als RKS geöffnet.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.40-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.40-debug.apk",
-  "sha256": "61c20f15b7e1965bc9df331b7255a08731fa919b96c1e5d4343330f3b27635db",
+  "version": "0.4.41",
+  "versionCode": 441,
+  "name": "bOden Android 0.4.41",
+  "notes": "Feldkorrekturen: Methanolglas mit einem Etikett, freie Kopf-Felder, Tiefendarstellung, Datenrettung und Navigation. Android: Kamera-Freigaben, gespeicherter Bluetooth-Drucker und Löschung unbenannter Projekte. Methanol im GeODin-Export derzeit G (Glas) plus Klartext; eigener Code noch zu bestätigen.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.41/bOden-Android-0.4.41-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.41/bOden-Android-0.4.41-debug.apk",
+  "sha256": "2b6797f48c781c1d92f315b43c61805f3bc7e4ed58d93a86af7c1066549bae06",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
