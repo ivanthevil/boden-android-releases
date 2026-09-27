@@ -1,11 +1,11 @@
 {
-  "version": "0.4.41",
-  "versionCode": 441,
-  "name": "bOden Android 0.4.41",
-  "notes": "Feldkorrekturen: Methanolglas mit einem Etikett, freie Kopf-Felder, Tiefendarstellung, Datenrettung und Navigation. Android: Kamera-Freigaben, gespeicherter Bluetooth-Drucker und Löschung unbenannter Projekte. Methanol im GeODin-Export derzeit G (Glas) plus Klartext; eigener Code noch zu bestätigen.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.41/bOden-Android-0.4.41-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.41/bOden-Android-0.4.41-debug.apk",
-  "sha256": "2b6797f48c781c1d92f315b43c61805f3bc7e4ed58d93a86af7c1066549bae06",
+  "version": "0.4.42",
+  "versionCode": 442,
+  "name": "bOden Android 0.4.42",
+  "notes": "Rückbau: Projekt/Bauvorhaben/Protokolle mit gemeinsamem Kopf; komprimierte Fotos separat gespeichert, Originale lokal erhalten; portable Sicherung mit Fotos. Foto-Synchronisation mit Prüfsummen und Schutz vor alten Clients. Server gesichert und aktualisiert. Bitte Windows und Android aktualisieren; App nicht deinstallieren.",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.42/bOden-Android-0.4.42-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.42/bOden-Android-0.4.42-debug.apk",
+  "sha256": "b0207349b5626b6b5cc113c1fd424dcb5997e84d8bfd4bc44dd19cdf2ce1510f",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
