@@ -1,11 +1,11 @@
 {
-  "version": "0.4.42",
-  "versionCode": 442,
-  "name": "bOden Android 0.4.42",
-  "notes": "Rückbau: Projekt/Bauvorhaben/Protokolle mit gemeinsamem Kopf; komprimierte Fotos separat gespeichert, Originale lokal erhalten; portable Sicherung mit Fotos. Foto-Synchronisation mit Prüfsummen und Schutz vor alten Clients. Server gesichert und aktualisiert. Bitte Windows und Android aktualisieren; App nicht deinstallieren.",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.42/bOden-Android-0.4.42-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.42/bOden-Android-0.4.42-debug.apk",
-  "sha256": "b0207349b5626b6b5cc113c1fd424dcb5997e84d8bfd4bc44dd19cdf2ce1510f",
+  "version": "0.4.43",
+  "versionCode": 443,
+  "name": "bOden Android 0.4.43",
+  "notes": "",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.43/bOden-Android-0.4.43-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.43/bOden-Android-0.4.43-debug.apk",
+  "sha256": "e8c318f38821bfde3517d1f0985475ce2c484a92ed8b242be628a67921cb5ec8",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
