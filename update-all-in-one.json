@@ -1,11 +1,11 @@
 {
-  "version": "0.4.56",
-  "versionCode": 456,
-  "name": "bOden Android 0.4.56",
+  "version": "0.4.57",
+  "versionCode": 457,
+  "name": "bOden Android 0.4.57",
   "notes": "",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.56/bOden-Android-0.4.56-debug.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.56/bOden-Android-0.4.56-debug.apk",
-  "sha256": "36f41afeee23f570ad6dc6a802245205ae9a237f3894baea6b6d5aecebde9a31",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.57/bOden-Android-0.4.57-debug.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.4.57/bOden-Android-0.4.57-debug.apk",
+  "sha256": "376269cc39f0b8a98e7e458a07d0358e7d60631cc8083a9eae0f8854e00d62de",
   "minimumAndroidVersion": 24,
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one"
