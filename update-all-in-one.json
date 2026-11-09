@@ -1,12 +1,10 @@
 {
-    "version":  "0.5.2",
-    "versionCode":  502,
-    "name":  "b0den Mobile 0.5.2",
-    "notes":  "Vollständige b0den-Oberfläche für Smartphones und Tablets optimiert: responsives Layout, Touch-Bedienung, kompakte Tabellen/Karten, Bottom-Sheets und fehlerfreie Darstellung in allen Modulen.",
-    "url":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.2/b0den-Mobile-0.5.2.apk",
-    "apkUrl":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.2/b0den-Mobile-0.5.2.apk",
-    "sha256":  "88db1ec41dc55e6aadabbcffae71dec0e25e14a6c5064fdb30bca6f9789e89be",
-    "minimumAndroidVersion":  24,
-    "packageName":  "de.taberg.boden.rueckbau",
-    "channel":  "all-in-one"
+    "appId":  "de.taberg.boden.rueckbau",
+    "channel":  "all-in-one",
+    "version":  "0.5.3",
+    "versionCode":  503,
+    "apkUrl":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.3/b0den-Mobile-0.5.3.apk",
+    "sha256":  "94a8bf9194b0fe49bd5b2be4db9ff2c12c119d2524247ed85eb774b87098e082",
+    "publishedAt":  "2026-11-09T22:18:44Z",
+    "notes":  "b0den Mobile 0.5.3 - Neues Smartphone-Design (einhändige Bedienung): Scrollbare Startseite mit Schnellstart, mehrzeilig lesbare Projekt- \u0026 Bauvorhabenkarten, RAMM Split-Screen (Werte-Tabelle + Numpad gleichzeitig ohne Scrollen sichtbar), kompakte Daumen-Navigation."
 }
