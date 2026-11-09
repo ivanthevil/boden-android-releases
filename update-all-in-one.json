@@ -1,12 +1,12 @@
 {
-  "version": "0.5.1",
-  "versionCode": 501,
-  "name": "b0den Mobile 0.5.1",
-  "notes": "",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.1/b0den-Mobile-0.5.1.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.1/b0den-Mobile-0.5.1.apk",
-  "sha256": "99c76ad8c3a384830694a013f7e7a8c947ab42fb084fd91fdd16796da3244598",
-  "minimumAndroidVersion": 24,
-  "packageName": "de.taberg.boden.rueckbau",
-  "channel": "all-in-one"
+    "version":  "0.5.2",
+    "versionCode":  502,
+    "name":  "b0den Mobile 0.5.2",
+    "notes":  "Vollständige b0den-Oberfläche für Smartphones und Tablets optimiert: responsives Layout, Touch-Bedienung, kompakte Tabellen/Karten, Bottom-Sheets und fehlerfreie Darstellung in allen Modulen.",
+    "url":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.2/b0den-Mobile-0.5.2.apk",
+    "apkUrl":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.2/b0den-Mobile-0.5.2.apk",
+    "sha256":  "88db1ec41dc55e6aadabbcffae71dec0e25e14a6c5064fdb30bca6f9789e89be",
+    "minimumAndroidVersion":  24,
+    "packageName":  "de.taberg.boden.rueckbau",
+    "channel":  "all-in-one"
 }
