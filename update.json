@@ -1,12 +1,14 @@
 {
-  "version": "0.4.40",
-  "versionCode": 440,
-  "name": "bOden Android 0.4.40",
-  "notes": "BD-Dateien öffnen jetzt automatisch im passenden Arbeitsbereich. Reine Rammsondierungen und markierte Rettungsdateien werden als RAMME statt als RKS geöffnet.",
-  "url": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.40-debug.apk",
-  "apkUrl": "https://raw.githubusercontent.com/ivanthevil/boden-android-releases/main/bOden-Android-0.4.40-debug.apk",
-  "sha256": "61c20f15b7e1965bc9df331b7255a08731fa919b96c1e5d4343330f3b27635db",
-  "minimumAndroidVersion": 24,
+  "appId": "de.taberg.boden.rueckbau",
   "packageName": "de.taberg.boden.rueckbau",
-  "channel": "all-in-one"
+  "channel": "all-in-one",
+  "minimumAndroidVersion": 24,
+  "version": "0.5.4",
+  "versionCode": 504,
+  "name": "b0den 0.5.4",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.4/b0den-Mobile-0.5.4.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.4/b0den-Mobile-0.5.4.apk",
+  "sha256": "247a78acf0f296cf3e8154930bd0ddd8b6a905f51166ddd7b4ceab959379177a",
+  "publishedAt": "2026-11-10T09:03:42.735Z",
+  "notes": "GeoDIN-Export & Bodenansprache korrigiert (keine mehrfache Auffüllung mehr, Nebenbestandteile als Adjektive nach DIN 4022/4023, gestörte Bodenproben mit Probentyp G, Verwitterung in ZUSATZ, Schotter ohne Punkt). GWM-Ansicht, Ausbauskizze und GWM-GeoDIN-Export auf den bewährten Stand zurückgesetzt."
 }
