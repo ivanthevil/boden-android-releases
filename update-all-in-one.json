@@ -1,10 +1,14 @@
 {
-    "appId":  "de.taberg.boden.rueckbau",
-    "channel":  "all-in-one",
-    "version":  "0.5.3",
-    "versionCode":  503,
-    "apkUrl":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.3/b0den-Mobile-0.5.3.apk",
-    "sha256":  "94a8bf9194b0fe49bd5b2be4db9ff2c12c119d2524247ed85eb774b87098e082",
-    "publishedAt":  "2026-11-09T22:18:44Z",
-    "notes":  "b0den Mobile 0.5.3 - Neues Smartphone-Design (einhändige Bedienung): Scrollbare Startseite mit Schnellstart, mehrzeilig lesbare Projekt- \u0026 Bauvorhabenkarten, RAMM Split-Screen (Werte-Tabelle + Numpad gleichzeitig ohne Scrollen sichtbar), kompakte Daumen-Navigation."
+  "appId": "de.taberg.boden.rueckbau",
+  "packageName": "de.taberg.boden.rueckbau",
+  "channel": "all-in-one",
+  "minimumAndroidVersion": 24,
+  "version": "0.5.4",
+  "versionCode": 504,
+  "name": "b0den 0.5.4",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.4/b0den-Mobile-0.5.4.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.4/b0den-Mobile-0.5.4.apk",
+  "sha256": "247a78acf0f296cf3e8154930bd0ddd8b6a905f51166ddd7b4ceab959379177a",
+  "publishedAt": "2026-11-10T09:03:42.735Z",
+  "notes": "GeoDIN-Export & Bodenansprache korrigiert (keine mehrfache Auffüllung mehr, Nebenbestandteile als Adjektive nach DIN 4022/4023, gestörte Bodenproben mit Probentyp G, Verwitterung in ZUSATZ, Schotter ohne Punkt). GWM-Ansicht, Ausbauskizze und GWM-GeoDIN-Export auf den bewährten Stand zurückgesetzt."
 }
