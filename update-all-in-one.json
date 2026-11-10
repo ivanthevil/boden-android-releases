@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.4",
-  "versionCode": 504,
-  "name": "b0den 0.5.4",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.4/b0den-Mobile-0.5.4.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.4/b0den-Mobile-0.5.4.apk",
-  "sha256": "247a78acf0f296cf3e8154930bd0ddd8b6a905f51166ddd7b4ceab959379177a",
-  "publishedAt": "2026-11-10T09:03:42.735Z",
-  "notes": "GeoDIN-Export & Bodenansprache korrigiert (keine mehrfache Auffüllung mehr, Nebenbestandteile als Adjektive nach DIN 4022/4023, gestörte Bodenproben mit Probentyp G, Verwitterung in ZUSATZ, Schotter ohne Punkt). GWM-Ansicht, Ausbauskizze und GWM-GeoDIN-Export auf den bewährten Stand zurückgesetzt."
+  "version": "0.5.5",
+  "versionCode": 505,
+  "name": "b0den 0.5.5",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.5/b0den-Mobile-0.5.5.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.5/b0den-Mobile-0.5.5.apk",
+  "sha256": "d841f96cdbf52a17e8ae5dee6c97cae8b0a6edbe94d958ccfec833e4f90c4cb2",
+  "publishedAt": "2026-11-10T22:37:09.728Z",
+  "notes": "GeoDIN-Export optimiert: Schwarz-weiße DIN-4023-Auffüllungssignatur (GENESE=y ohne doppeltes Auffüllung-Präfix), bereinigte Konsistenz-Spannen in ERGBEM, automatische Zusammenführung gleicher Punktnummern im Bauvorhaben-Export sowie korrigierte Nebenbestandteil-Adjektive."
 }
