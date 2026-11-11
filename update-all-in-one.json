@@ -3,12 +3,12 @@
     "packageName":  "de.taberg.boden.rueckbau",
     "channel":  "all-in-one",
     "minimumAndroidVersion":  24,
-    "version":  "0.5.7",
-    "versionCode":  507,
-    "name":  "b0den 0.5.7",
-    "url":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.7/b0den-Mobile-0.5.7.apk",
-    "apkUrl":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.7/b0den-Mobile-0.5.7.apk",
-    "sha256":  "eccdd82e2766fd77da3eef0a5fdf9e1000e8f5f884cffbfd0bcc8f6acfd42b36",
-    "publishedAt":  "2026-11-11T07:43:01.341Z",
-    "notes":  "Mobile Safe-Area \u0026 Android-Steuerung: Untere Buttons, Dialoge und Bottom-Sheets überlappen nicht mehr mit der Android-Navigationsleiste; schlankes Windows-Patch-Archiv (~11,5 MB)."
+    "version":  "0.5.8",
+    "versionCode":  508,
+    "name":  "b0den 0.5.8",
+    "url":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.8/b0den-Mobile-0.5.8.apk",
+    "apkUrl":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.8/b0den-Mobile-0.5.8.apk",
+    "sha256":  "9997afddab6eec010c6588514c55c0905157ef2970c5fec7c53bb5aa4f45a6dc",
+    "publishedAt":  "2026-11-11T07:57:17.979Z",
+    "notes":  "Manager-Ansicht (Mobile): Vollflächige Darstellung der Bohr-, Ramm- und Pegelprofile behoben (kein 44px-Spalten-Quetschen mehr)."
 }
