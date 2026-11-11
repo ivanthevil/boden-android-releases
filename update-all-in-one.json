@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.5",
-  "versionCode": 505,
-  "name": "b0den 0.5.5",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.5/b0den-Mobile-0.5.5.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.5/b0den-Mobile-0.5.5.apk",
-  "sha256": "d841f96cdbf52a17e8ae5dee6c97cae8b0a6edbe94d958ccfec833e4f90c4cb2",
-  "publishedAt": "2026-11-10T22:37:09.728Z",
-  "notes": "GeoDIN-Export optimiert: Schwarz-weiße DIN-4023-Auffüllungssignatur (GENESE=y ohne doppeltes Auffüllung-Präfix), bereinigte Konsistenz-Spannen in ERGBEM, automatische Zusammenführung gleicher Punktnummern im Bauvorhaben-Export sowie korrigierte Nebenbestandteil-Adjektive."
+  "version": "0.5.6",
+  "versionCode": 506,
+  "name": "b0den 0.5.6",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.6/b0den-Mobile-0.5.6.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.6/b0den-Mobile-0.5.6.apk",
+  "sha256": "8b9d4ea62c1bdc12a7b81f49e5cb3e70cd9569a5ca09a30a697841fa1a8eb63f",
+  "publishedAt": "2026-11-11T07:20:47.449Z",
+  "notes": "GeoDIN-Export: Fehler \"initSurvey is not defined\" beim Export von verknüpften Verfahren mit abweichendem Punktnamen behoben."
 }
