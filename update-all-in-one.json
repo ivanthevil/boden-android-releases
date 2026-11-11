@@ -1,14 +1,14 @@
 {
-  "appId": "de.taberg.boden.rueckbau",
-  "packageName": "de.taberg.boden.rueckbau",
-  "channel": "all-in-one",
-  "minimumAndroidVersion": 24,
-  "version": "0.5.6",
-  "versionCode": 506,
-  "name": "b0den 0.5.6",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.6/b0den-Mobile-0.5.6.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.6/b0den-Mobile-0.5.6.apk",
-  "sha256": "8b9d4ea62c1bdc12a7b81f49e5cb3e70cd9569a5ca09a30a697841fa1a8eb63f",
-  "publishedAt": "2026-11-11T07:20:47.449Z",
-  "notes": "GeoDIN-Export: Fehler \"initSurvey is not defined\" beim Export von verknüpften Verfahren mit abweichendem Punktnamen behoben."
+    "appId":  "de.taberg.boden.rueckbau",
+    "packageName":  "de.taberg.boden.rueckbau",
+    "channel":  "all-in-one",
+    "minimumAndroidVersion":  24,
+    "version":  "0.5.7",
+    "versionCode":  507,
+    "name":  "b0den 0.5.7",
+    "url":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.7/b0den-Mobile-0.5.7.apk",
+    "apkUrl":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.7/b0den-Mobile-0.5.7.apk",
+    "sha256":  "eccdd82e2766fd77da3eef0a5fdf9e1000e8f5f884cffbfd0bcc8f6acfd42b36",
+    "publishedAt":  "2026-11-11T07:43:01.341Z",
+    "notes":  "Mobile Safe-Area \u0026 Android-Steuerung: Untere Buttons, Dialoge und Bottom-Sheets überlappen nicht mehr mit der Android-Navigationsleiste; schlankes Windows-Patch-Archiv (~11,5 MB)."
 }
