@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.10",
-  "versionCode": 510,
-  "name": "b0den 0.5.10",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.10/b0den-Mobile-0.5.10.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.10/b0den-Mobile-0.5.10.apk",
-  "sha256": "889185fadabf4fbd9755ff1e381f04cc89fa0b8902c8a0698fa368f1431ff821",
-  "publishedAt": "2026-11-12T07:51:31.227Z",
-  "notes": "Rammsondierung & GeoDIN-Export: Fehler 'widerspruechliche Rammwerte' durch Sync-Merge-Duplikate behoben, automatische Stationsnummer-Hochzaehlung (z.B. DPH-TB01 -> DPH-TB02) bei '+ RAMME' ergaenzt."
+  "version": "0.5.11",
+  "versionCode": 511,
+  "name": "b0den 0.5.11",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.11/b0den-Mobile-0.5.11.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.11/b0den-Mobile-0.5.11.apk",
+  "sha256": "d597ca0a04485f452bcfa430134ac6832815724ea46d106b4ba1cc41fd8abb17",
+  "publishedAt": "2026-11-13T16:22:12.967Z",
+  "notes": "Neu: Funktion 'Probenahmeprotokoll' (Taberg-Vorlage mit Bauvorhaben ueber der Ueberschrift, bis zu 4 Fotos aus Kamera/Galerie mit RAM-Schutz gegen Mobil-Abstuerze, Skizze, Unterschrift sowie Excel- und PDF-Export)."
 }
