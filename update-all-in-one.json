@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.11",
-  "versionCode": 511,
-  "name": "b0den 0.5.11",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.11/b0den-Mobile-0.5.11.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.11/b0den-Mobile-0.5.11.apk",
-  "sha256": "d597ca0a04485f452bcfa430134ac6832815724ea46d106b4ba1cc41fd8abb17",
-  "publishedAt": "2026-11-13T16:22:12.967Z",
-  "notes": "Neu: Funktion 'Probenahmeprotokoll' (Taberg-Vorlage mit Bauvorhaben ueber der Ueberschrift, bis zu 4 Fotos aus Kamera/Galerie mit RAM-Schutz gegen Mobil-Abstuerze, Skizze, Unterschrift sowie Excel- und PDF-Export)."
+  "version": "0.5.12",
+  "versionCode": 512,
+  "name": "b0den 0.5.12",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.12/b0den-Mobile-0.5.12.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.12/b0den-Mobile-0.5.12.apk",
+  "sha256": "afb95f300b40c4709c296ea3b872858ee458b9058712025f6357449e8922a8d8",
+  "publishedAt": "2026-11-13T17:02:26.315Z",
+  "notes": "Update Probenahmeprotokoll: Ort statt Anschrift (Veranlasser-Anschrift entfernt), automatische Projekt-Nr.-Uebernahme, Scroller/Numpad fuer Zahlen/Tiefe/Datum/Zeit, b0den-Picker fuer Ansprache/Farbe/Konsistenz/Geruch, mehrere Proben pro Protokoll mit Auto-Probenbezeichnung, ausgeblendete Mobile-Navigationsleiste bei aktiver Tastatur sowie Fotos mit b0den-Timestamp, Taberg-Logo und Zusatztext."
 }
