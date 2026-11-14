@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.16",
-  "versionCode": 516,
-  "name": "bOden 0.5.16",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.16/b0den-Mobile-0.5.16.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.16/b0den-Mobile-0.5.16.apk",
-  "sha256": "8cc5230251290e37385edd0752761ef1b58b658744d9c37d814a0ae3df2d5931",
-  "publishedAt": "2026-11-14T17:38:24.943Z",
-  "notes": "Mobile-Update 0.5.16: NIIMBOT Bluetooth-Direktdruck auf dem Smartphone repariert (Bestätigungsdialog über Etiketten-Fenster, 384-px-Druckkopf-Anpassung für 50×30-mm-Rollen, stabile BLE-Übertragung); großer blauer ETIKETTEN-Button mit mobiler Etiketten-Ansicht; klare Trennung (PROTOKOLL) vor PROJEKTDATEN BEARBEITEN; Android-Zurück-Taste navigiert in der App; Schriftgrößeneinstellung ohne Rand-Überlauf repariert; OpenAI-Bildbearbeitung entfernt."
+  "version": "0.5.17",
+  "versionCode": 517,
+  "name": "bOden 0.5.17",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.17/b0den-Mobile-0.5.17.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.17/b0den-Mobile-0.5.17.apk",
+  "sha256": "93a1941b5fcc184d3cab8cffc2d933b12c142df13680b2263084f2a2efc74394",
+  "publishedAt": "2026-11-14T18:04:54.137Z",
+  "notes": "Mobile-Update 0.5.17: NIIMBOT-Druckgeschwindigkeit deutlich beschleunigt (Hintergrund-Vorverbindung beim Öffnen des Etiketten-Fensters, adaptive BLE-Paketsteuerung ohne unnötige 15-ms-Pausen, Mehrfachkopien je Probe in einem einzigen Druckauftrag ohne doppelte Bluetooth-Übertragung); Datum auf den Etiketten deutlich vergrößert, fetter gesetzt und weiter nach links Richtung TABERG-Logo gerückt, damit es bei leicht versetzt eingelegten Etikettenrollen nicht abgeschnitten wird."
 }
