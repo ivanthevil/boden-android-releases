@@ -1,14 +1,14 @@
 {
-  "appId": "de.taberg.boden.rueckbau",
-  "packageName": "de.taberg.boden.rueckbau",
-  "channel": "all-in-one",
-  "minimumAndroidVersion": 24,
-  "version": "0.5.13",
-  "versionCode": 513,
-  "name": "bOden 0.5.13",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.13/b0den-Mobile-0.5.13.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.13/b0den-Mobile-0.5.13.apk",
-  "sha256": "ac5c82ac2f2dccc1524dfbfe8bae3b7587287d37d75b174ee3947da4a40adc1e",
-  "publishedAt": "2026-11-14T15:09:46.255Z",
-  "notes": "Mobile-Update 0.5.13: Eigener schlanker Mobile-Build mit statischer Startseite und Letzte-Protokolle-Leiste; überarbeitete Bodenansprache mit größeren Feldern und direkter 2-Schritt-Auswahl (Haupt-/Nebenbestandteile); Rammsondierung mit 3 festen Ansichten (Sonde, Zählen & Tabelle mit vollem Platz, Auswertung mit Mobile-Rammdiagramm); Plattendruckversuch mit größerer 4-Spalten-Tabelle; Probenahmeprotokoll im neuen Mobile-Design; Einstellungen direkt unten in der Navigationsleiste."
+    "appId":  "de.taberg.boden.rueckbau",
+    "packageName":  "de.taberg.boden.rueckbau",
+    "channel":  "all-in-one",
+    "minimumAndroidVersion":  24,
+    "version":  "0.5.14",
+    "versionCode":  514,
+    "name":  "bOden 0.5.14",
+    "url":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.14/b0den-Mobile-0.5.14.apk",
+    "apkUrl":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.14/b0den-Mobile-0.5.14.apk",
+    "sha256":  "6e96369b5e806ff8c025f498c79d0e5713747f2ace2a5c5ef8dfa28f5819c9f1",
+    "publishedAt":  "2026-11-14T16:12:20.627Z",
+    "notes":  "Mobile-Update 0.5.14 (Hardware-Feinschliff auf Samsung Galaxy A34): Lesbare Android-Systemleisten (Status- \u0026 3-Button-Navigationsleiste im Hell-/Sonnenmodus sowie automatisch dunkel im Darkmode); fixierter Top-Header beim Scrollen und automatischer Scroll-Reset beim Öffnen von Unteransichten; vollständiges Label \u0027Einstellungen\u0027 in der unteren Navigation; einzeiliger Button \u0027PROJEKTDATEN BEARBEITEN\u0027 und passende Schnellwahl-Buttons (+ 2. VERSUCH, + GWM ohne Scrollbalken); RKS-Schichtenkopf (NR. 1 / NR. 2) und DIN-4022-Dialog ohne Überlappung; Rammsondierung und Plattendruckversuch mit optimaler Tabellenhöhe auf echten Smartphone-Displays; einheitlicher Mobile-Kopf für LAGA PN 98 sowie überlappungsfreie Felder im Rückbau-Protokoll."
 }
