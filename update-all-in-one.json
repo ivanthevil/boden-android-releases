@@ -1,14 +1,14 @@
 {
-    "appId":  "de.taberg.boden.rueckbau",
-    "packageName":  "de.taberg.boden.rueckbau",
-    "channel":  "all-in-one",
-    "minimumAndroidVersion":  24,
-    "version":  "0.5.15",
-    "versionCode":  515,
-    "name":  "bOden 0.5.15",
-    "url":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.15/b0den-Mobile-0.5.15.apk",
-    "apkUrl":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.15/b0den-Mobile-0.5.15.apk",
-    "sha256":  "1b657fd98225282f0bfc2c22af74e984625aa672b12bef6148457742cd02afe0",
-    "publishedAt":  "2026-11-14T16:27:54.602Z",
-    "notes":  "Mobile-Update 0.5.15: Projektnummern in der Projekt- und Bauvorhaben-Übersicht im kräftigen Grün des Speichern-Buttons hervorgehoben; Darstellungsfehler im Bauvorhaben behoben, bei dem Verfahrens-Badges (RKS, Pegel, Ramme usw.) im Sonnenmodus als schwarze Balken mit unsichtbarer Schrift erschienen; automatischer Scroll-Reset beim Wechsel zwischen Projekten und Bauvorhaben."
+  "appId": "de.taberg.boden.rueckbau",
+  "packageName": "de.taberg.boden.rueckbau",
+  "channel": "all-in-one",
+  "minimumAndroidVersion": 24,
+  "version": "0.5.16",
+  "versionCode": 516,
+  "name": "bOden 0.5.16",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.16/b0den-Mobile-0.5.16.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.16/b0den-Mobile-0.5.16.apk",
+  "sha256": "8cc5230251290e37385edd0752761ef1b58b658744d9c37d814a0ae3df2d5931",
+  "publishedAt": "2026-11-14T17:38:24.943Z",
+  "notes": "Mobile-Update 0.5.16: NIIMBOT Bluetooth-Direktdruck auf dem Smartphone repariert (Bestätigungsdialog über Etiketten-Fenster, 384-px-Druckkopf-Anpassung für 50×30-mm-Rollen, stabile BLE-Übertragung); großer blauer ETIKETTEN-Button mit mobiler Etiketten-Ansicht; klare Trennung (PROTOKOLL) vor PROJEKTDATEN BEARBEITEN; Android-Zurück-Taste navigiert in der App; Schriftgrößeneinstellung ohne Rand-Überlauf repariert; OpenAI-Bildbearbeitung entfernt."
 }
