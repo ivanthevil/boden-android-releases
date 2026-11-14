@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.17",
-  "versionCode": 517,
-  "name": "bOden 0.5.17",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.17/b0den-Mobile-0.5.17.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.17/b0den-Mobile-0.5.17.apk",
-  "sha256": "93a1941b5fcc184d3cab8cffc2d933b12c142df13680b2263084f2a2efc74394",
-  "publishedAt": "2026-11-14T18:04:54.137Z",
-  "notes": "Mobile-Update 0.5.17: NIIMBOT-Druckgeschwindigkeit deutlich beschleunigt (Hintergrund-Vorverbindung beim Öffnen des Etiketten-Fensters, adaptive BLE-Paketsteuerung ohne unnötige 15-ms-Pausen, Mehrfachkopien je Probe in einem einzigen Druckauftrag ohne doppelte Bluetooth-Übertragung); Datum auf den Etiketten deutlich vergrößert, fetter gesetzt und weiter nach links Richtung TABERG-Logo gerückt, damit es bei leicht versetzt eingelegten Etikettenrollen nicht abgeschnitten wird."
+  "version": "0.5.18",
+  "versionCode": 518,
+  "name": "bOden 0.5.18",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.18/b0den-Mobile-0.5.18.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.18/b0den-Mobile-0.5.18.apk",
+  "sha256": "5e7e3fcf260d02d82c4119df6af4f2d60cbe05ef5837e69e3a99dd4a36e6193e",
+  "publishedAt": "2026-11-14T19:26:59.182Z",
+  "notes": "Mobile-Update 0.5.18: Klare optische Trennung zwischen den Schichten in der Bodenansprache (grüner Kopfbalken je Schichtkarte, deutliche Trennlinie mit grünem Akzent zwischen aufeinanderfolgenden Schichten, einheitliche AB-/BIS-Tiefenzeile für alle Schichten) sowie durchgängige grüne Schicht-Badges (SCHICHT NR. 1, SCHICHT NR. 2, ...) passend zum Speichern-Button."
 }
