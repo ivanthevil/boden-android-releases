@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.18",
-  "versionCode": 518,
-  "name": "bOden 0.5.18",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.18/b0den-Mobile-0.5.18.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.18/b0den-Mobile-0.5.18.apk",
-  "sha256": "5e7e3fcf260d02d82c4119df6af4f2d60cbe05ef5837e69e3a99dd4a36e6193e",
-  "publishedAt": "2026-11-14T19:26:59.182Z",
-  "notes": "Mobile-Update 0.5.18: Klare optische Trennung zwischen den Schichten in der Bodenansprache (grüner Kopfbalken je Schichtkarte, deutliche Trennlinie mit grünem Akzent zwischen aufeinanderfolgenden Schichten, einheitliche AB-/BIS-Tiefenzeile für alle Schichten) sowie durchgängige grüne Schicht-Badges (SCHICHT NR. 1, SCHICHT NR. 2, ...) passend zum Speichern-Button."
+  "version": "0.5.19",
+  "versionCode": 519,
+  "name": "bOden 0.5.19",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.19/b0den-Mobile-0.5.19.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.19/b0den-Mobile-0.5.19.apk",
+  "sha256": "d9b2313a1be57c97b11020b06e8f7db8eedd750412f025c2d133654473495dc9",
+  "publishedAt": "2026-11-15T21:51:04.159Z",
+  "notes": "Mobile-Update 0.5.19: App ist dauerhaft auf Hochformat (Portrait-Modus) fixiert, sodass sich die Ansicht beim Drehen des Smartphones im Feldeinsatz nicht ungewollt ins Querformat dreht."
 }
