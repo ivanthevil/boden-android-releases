@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.20",
-  "versionCode": 520,
-  "name": "bOden 0.5.20",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.20/b0den-Mobile-0.5.20.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.20/b0den-Mobile-0.5.20.apk",
-  "sha256": "e9af3e59dc5c79f3c4d86b4e5a2650bf8e2a937affd38804d30dc7ae001648d1",
-  "publishedAt": "2026-11-16T19:44:54.964Z",
-  "notes": "Mobile-Update 0.5.20: Darstellung von 'Entnommene Proben' in der Bodenansprache komplett für Smartphones überarbeitet (klare Probenkarten ohne Textüberlappung mit grünem Proben-Badge, sauber getrennten Behälter-/Tiefen-Feldern, LÖSCHEN-Button sowie 2-spaltiger Aktionsleiste für + METHANOL / BEARBEITEN; außerdem kompaktes mobiles Eingabeformular mit +/- Probennummer und 2-spaltiger Probenart-/Behälterauswahl)."
+  "version": "0.5.21",
+  "versionCode": 521,
+  "name": "bOden 0.5.21",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.21/b0den-Mobile-0.5.21.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.21/b0den-Mobile-0.5.21.apk",
+  "sha256": "a84f0e0438b2cf8639a3fda41a16994cfc3fdb4bbf69833217f73826b69d25ab",
+  "publishedAt": "2026-11-17T13:00:20.171Z",
+  "notes": "Update 0.1.251 / Mobile 0.5.21: GeoDIN-Mehrfachexport (Bauvorhaben-Export) repariert – alle Punkte werden gemeinsam in einer geschlossenen Access/ODBC-Transaktion gespeichert (verhindert verlorene Punkte bzw. 'GeoDIN-Schreibprüfung: X Punkte erwartet, aber Y dauerhaft gespeichert'), echte Validierungsfehler werden nicht mehr verschluckt, leere Platzhalter-Schichten ohne Endtiefe werden sauber übersprungen und zu lange Register-/Bearbeiterfelder sicher begrenzt."
 }
