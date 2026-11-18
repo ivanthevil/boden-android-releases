@@ -3,12 +3,12 @@
     "packageName": "de.taberg.boden.rueckbau",
     "channel": "all-in-one",
     "minimumAndroidVersion": 24,
-    "version": "0.5.30",
-    "versionCode": 530,
-    "name": "bOden 0.5.30",
-    "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.30/b0den-Mobile-0.5.30.apk",
-    "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.30/b0den-Mobile-0.5.30.apk",
-    "sha256": "c7f3ed234cf984f20d376986f2c4f7324c11070d35f2e683608f37ad813239bf",
-    "publishedAt": "2026-11-18T18:57:31.910Z",
-    "notes": "Update 0.1.260 / Mobile 0.5.30: Interaktive Vorschaukarte in „Koordinaten & Höhen“ (OpenStreetMap, Luftbild NRW und Offline-Koordinatenraster) für „GPS Position holen“, alle gespeicherten Projektpunkte, Datei-Importvorschau, anklickbare Punktmarker und Live-Abstandsanzeige."
+    "version": "0.5.31",
+    "versionCode": 531,
+    "name": "bOden 0.5.31",
+    "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.31/b0den-Mobile-0.5.31.apk",
+    "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.31/b0den-Mobile-0.5.31.apk",
+    "sha256": "98b8211c9503f3e3b3a857d6d6df43afcf19c526439156ab0b02cb700cc33ecc",
+    "publishedAt": "2026-11-18T19:31:04.430Z",
+    "notes": "Update 0.1.261 / Mobile 0.5.31: Emlid-Flow-Integration (Teilen an b0den auf Android, automatische App-Erkennung & Schnellstart, Emlid-CSV/GeoJSON-Import inkl. Elevation/m NHN, umschaltbar zwischen „Koordinaten + Höhen“ und „Nur Höhen (m NHN)“, automatischer 32-Präfix für GeoDIN EPSG:4647 sowie Zuordnung von Namen wie RKS/DPH 1; auf dem Handy direkt im Bauvorhaben erreichbar)."
 }
