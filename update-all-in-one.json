@@ -3,12 +3,12 @@
     "packageName": "de.taberg.boden.rueckbau",
     "channel": "all-in-one",
     "minimumAndroidVersion": 24,
-    "version": "0.5.29",
-    "versionCode": 529,
-    "name": "bOden 0.5.29",
-    "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.29/b0den-Mobile-0.5.29.apk",
-    "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.29/b0den-Mobile-0.5.29.apk",
-    "sha256": "a47865ae79aa6fcaca20c16c58ea56e7f6de94d742fe995ebacb1206d8306b57",
-    "publishedAt": "2026-11-18T18:32:39.538Z",
-    "notes": "Hotfix 0.1.259 / Mobile 0.5.29: Direkte Verknüpfungsbuttons („MIT … VERKNÜPFEN“ / „KOORDINATEN PRÜFEN“) direkt an den Konflikthinweisen in Projekte, über 180× schnellere Punktgruppierung in GeoDIN Fusion (kein Hänger bei 500+ Punkten), gezielter Projektfilter in der Fusion-Mittelspalte sowie zuverlässige Übernahme manueller Verknüpfungen in GeoDIN Komponieren & GeoDIN Fusion."
+    "version": "0.5.30",
+    "versionCode": 530,
+    "name": "bOden 0.5.30",
+    "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.30/b0den-Mobile-0.5.30.apk",
+    "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.30/b0den-Mobile-0.5.30.apk",
+    "sha256": "c7f3ed234cf984f20d376986f2c4f7324c11070d35f2e683608f37ad813239bf",
+    "publishedAt": "2026-11-18T18:57:31.910Z",
+    "notes": "Update 0.1.260 / Mobile 0.5.30: Interaktive Vorschaukarte in „Koordinaten & Höhen“ (OpenStreetMap, Luftbild NRW und Offline-Koordinatenraster) für „GPS Position holen“, alle gespeicherten Projektpunkte, Datei-Importvorschau, anklickbare Punktmarker und Live-Abstandsanzeige."
 }
