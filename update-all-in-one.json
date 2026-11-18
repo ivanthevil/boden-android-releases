@@ -1,14 +1,14 @@
 {
-    "appId":  "de.taberg.boden.rueckbau",
-    "packageName":  "de.taberg.boden.rueckbau",
-    "channel":  "all-in-one",
-    "minimumAndroidVersion":  24,
-    "version":  "0.5.28",
-    "versionCode":  528,
-    "name":  "bOden 0.5.28",
-    "url":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.28/b0den-Mobile-0.5.28.apk",
-    "apkUrl":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.28/b0den-Mobile-0.5.28.apk",
-    "sha256":  "cbb9393f9b7e990b751916099a54c43bf4ebc135085294913494ad2f944cfc87",
-    "publishedAt":  "2026-11-18T17:42:45.921Z",
-    "notes":  "Hotfix 0.1.258 / Mobile 0.5.28: Behebt den Absturz beim Öffnen von Bauvorhaben unter Projekte (isExportLayerMeaningful) sowie das Durchsickern des zuletzt gespeicherten Ramm-/Pegel-/LPV-/Versickerungs-Verfahrens auf andere Bohrungen in loadProjectBoringRecord und GeoDIN Fusion, inklusive aller Fixes aus 0.1.257 (Pflaster-Signaturen, Koordinatenkonflikt-Hinweise und doppelte Fremd-Klone)."
+    "appId": "de.taberg.boden.rueckbau",
+    "packageName": "de.taberg.boden.rueckbau",
+    "channel": "all-in-one",
+    "minimumAndroidVersion": 24,
+    "version": "0.5.29",
+    "versionCode": 529,
+    "name": "bOden 0.5.29",
+    "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.29/b0den-Mobile-0.5.29.apk",
+    "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.29/b0den-Mobile-0.5.29.apk",
+    "sha256": "a47865ae79aa6fcaca20c16c58ea56e7f6de94d742fe995ebacb1206d8306b57",
+    "publishedAt": "2026-11-18T18:32:39.538Z",
+    "notes": "Hotfix 0.1.259 / Mobile 0.5.29: Direkte Verknüpfungsbuttons („MIT … VERKNÜPFEN“ / „KOORDINATEN PRÜFEN“) direkt an den Konflikthinweisen in Projekte, über 180× schnellere Punktgruppierung in GeoDIN Fusion (kein Hänger bei 500+ Punkten), gezielter Projektfilter in der Fusion-Mittelspalte sowie zuverlässige Übernahme manueller Verknüpfungen in GeoDIN Komponieren & GeoDIN Fusion."
 }
