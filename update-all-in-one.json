@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.23",
-  "versionCode": 523,
-  "name": "bOden 0.5.23",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.23/b0den-Mobile-0.5.23.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.23/b0den-Mobile-0.5.23.apk",
-  "sha256": "29f4a22a439fdce5b01a858369d8ae45a6cd676a6a497dcc49fa63567173d07f",
-  "publishedAt": "2026-11-18T13:49:19.780Z",
-  "notes": "Update 0.1.253 / Mobile 0.5.23: GeoDIN-Verknüpfung im GeoDIN-Arbeitsbereich und bei Mehrfachexporten weiter abgesichert (Konflikte bei Punktgruppen/Höhen werden sauber getrennt statt „RKS bei ... mehrfach vorhanden“ auszulösen); übernommene Punktkoordinaten/Höhen bleiben beim Zusammenführen von Verfahren erhalten und lecken nicht zwischen Punkten; Windows-Updater beendet vor dem Neustart den lokalen Server sauber und leert den App-Cache."
+  "version": "0.5.24",
+  "versionCode": 524,
+  "name": "bOden 0.5.24",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.24/b0den-Mobile-0.5.24.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.24/b0den-Mobile-0.5.24.apk",
+  "sha256": "8939724ab406a36398526f308298773639516428d737a38a60d989b70a38572d",
+  "publishedAt": "2026-11-18T14:34:41.568Z",
+  "notes": "Update 0.1.254 / Mobile 0.5.24: Längenprüfung im GeoDIN-Feld KOMMENTAR (max. 254 Zeichen) bereinigt – doppelte Hinweise und unnötiges „Koordinatenbezug: LOCAL“ werden vermieden, aufeinanderfolgende Ramm-Hinweise verlustfrei zusammengefasst und längerer Zusatztext über Prüfhinweise statt Export-Abbruch gemeldet."
 }
