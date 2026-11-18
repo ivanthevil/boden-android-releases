@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.22",
-  "versionCode": 522,
-  "name": "bOden 0.5.22",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.22/b0den-Mobile-0.5.22.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.22/b0den-Mobile-0.5.22.apk",
-  "sha256": "ce3512cc4be0a06d7cde7235a2fe55c034587e9ecff72c54c57f2feb37b8c063",
-  "publishedAt": "2026-11-18T13:02:04.799Z",
-  "notes": "Update 0.1.252 / Mobile 0.5.22: GeoDIN-Mehrfachexport behoben (z. B. gleichnamige GWM/RKS-Punkte oder abweichende eingetragene Höhen werden sauber als getrennte GeoDIN-Punkte exportiert statt 'RKS bei ... mehrfach vorhanden' auszulösen); fehlende Schichttiefe (bis [m]) blockiert den GeoDIN-Export nicht mehr, leere Platzhalter-Hinweise werden bereinigt, fehlende Tiefenwerte in der App als 'tippen ...' statt irreführendem '0,00' angezeigt und mobile RKS-Erkennung bereinigt."
+  "version": "0.5.23",
+  "versionCode": 523,
+  "name": "bOden 0.5.23",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.23/b0den-Mobile-0.5.23.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.23/b0den-Mobile-0.5.23.apk",
+  "sha256": "29f4a22a439fdce5b01a858369d8ae45a6cd676a6a497dcc49fa63567173d07f",
+  "publishedAt": "2026-11-18T13:49:19.780Z",
+  "notes": "Update 0.1.253 / Mobile 0.5.23: GeoDIN-Verknüpfung im GeoDIN-Arbeitsbereich und bei Mehrfachexporten weiter abgesichert (Konflikte bei Punktgruppen/Höhen werden sauber getrennt statt „RKS bei ... mehrfach vorhanden“ auszulösen); übernommene Punktkoordinaten/Höhen bleiben beim Zusammenführen von Verfahren erhalten und lecken nicht zwischen Punkten; Windows-Updater beendet vor dem Neustart den lokalen Server sauber und leert den App-Cache."
 }
