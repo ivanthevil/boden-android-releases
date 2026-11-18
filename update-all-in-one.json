@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.24",
-  "versionCode": 524,
-  "name": "bOden 0.5.24",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.24/b0den-Mobile-0.5.24.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.24/b0den-Mobile-0.5.24.apk",
-  "sha256": "8939724ab406a36398526f308298773639516428d737a38a60d989b70a38572d",
-  "publishedAt": "2026-11-18T14:34:41.568Z",
-  "notes": "Update 0.1.254 / Mobile 0.5.24: Längenprüfung im GeoDIN-Feld KOMMENTAR (max. 254 Zeichen) bereinigt – doppelte Hinweise und unnötiges „Koordinatenbezug: LOCAL“ werden vermieden, aufeinanderfolgende Ramm-Hinweise verlustfrei zusammengefasst und längerer Zusatztext über Prüfhinweise statt Export-Abbruch gemeldet."
+  "version": "0.5.25",
+  "versionCode": 525,
+  "name": "bOden 0.5.25",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.25/b0den-Mobile-0.5.25.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.25/b0den-Mobile-0.5.25.apk",
+  "sha256": "89ed3eebd8bcbb29c231436a5f5f2cdc50012fc99b0cad29b47c4e976c5d7283",
+  "publishedAt": "2026-11-18T15:36:23.092Z",
+  "notes": "Update 0.1.255 / Mobile 0.5.25: Unbeabsichtigte „Probenahme“-Einträge und doppelte „Verknüpft:“- bzw. Doppel-RKS-Anzeigen projektübergreifend behoben; bereits betroffene .bd-Projekte bereinigen leere Probenahme-Einträge sofort automatisch, und Punkt-Umbenennungen sowie RKS-Löschungen bleiben bei der Synchronisierung dauerhaft konsistent."
 }
