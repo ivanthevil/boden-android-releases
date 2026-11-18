@@ -3,12 +3,12 @@
   "packageName": "de.taberg.boden.rueckbau",
   "channel": "all-in-one",
   "minimumAndroidVersion": 24,
-  "version": "0.5.25",
-  "versionCode": 525,
-  "name": "bOden 0.5.25",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.25/b0den-Mobile-0.5.25.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.25/b0den-Mobile-0.5.25.apk",
-  "sha256": "89ed3eebd8bcbb29c231436a5f5f2cdc50012fc99b0cad29b47c4e976c5d7283",
-  "publishedAt": "2026-11-18T15:36:23.092Z",
-  "notes": "Update 0.1.255 / Mobile 0.5.25: Unbeabsichtigte „Probenahme“-Einträge und doppelte „Verknüpft:“- bzw. Doppel-RKS-Anzeigen projektübergreifend behoben; bereits betroffene .bd-Projekte bereinigen leere Probenahme-Einträge sofort automatisch, und Punkt-Umbenennungen sowie RKS-Löschungen bleiben bei der Synchronisierung dauerhaft konsistent."
+  "version": "0.5.26",
+  "versionCode": 526,
+  "name": "bOden 0.5.26",
+  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.26/b0den-Mobile-0.5.26.apk",
+  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.26/b0den-Mobile-0.5.26.apk",
+  "sha256": "0bc1c15afc822dd84a724801464b6529f36124d3790490f33bd9624eaa16538c",
+  "publishedAt": "2026-11-18T16:25:37.129Z",
+  "notes": "Update 0.1.256 / Mobile 0.5.26: GeoDIN-Export und Punktverknüpfungen projektübergreifend repariert — KB/GWM/BLP/HP/SCH-Bohrungen werden nicht mehr fälschlich zu doppelten RKS umbenannt, Rammen und Pegel verknüpfen sich zuverlässig mit dem zugehörigen Bohrprofil (auch bei KB/GWM am gleichen Standort, führenden Nullen wie 01/1 oder abweichenden Unternamen), und Sync-Klone werden beim Export automatisch zusammengeführt."
 }
