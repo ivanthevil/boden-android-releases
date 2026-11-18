@@ -1,14 +1,14 @@
 {
-  "appId": "de.taberg.boden.rueckbau",
-  "packageName": "de.taberg.boden.rueckbau",
-  "channel": "all-in-one",
-  "minimumAndroidVersion": 24,
-  "version": "0.5.26",
-  "versionCode": 526,
-  "name": "bOden 0.5.26",
-  "url": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.26/b0den-Mobile-0.5.26.apk",
-  "apkUrl": "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.26/b0den-Mobile-0.5.26.apk",
-  "sha256": "0bc1c15afc822dd84a724801464b6529f36124d3790490f33bd9624eaa16538c",
-  "publishedAt": "2026-11-18T16:25:37.129Z",
-  "notes": "Update 0.1.256 / Mobile 0.5.26: GeoDIN-Export und Punktverknüpfungen projektübergreifend repariert — KB/GWM/BLP/HP/SCH-Bohrungen werden nicht mehr fälschlich zu doppelten RKS umbenannt, Rammen und Pegel verknüpfen sich zuverlässig mit dem zugehörigen Bohrprofil (auch bei KB/GWM am gleichen Standort, führenden Nullen wie 01/1 oder abweichenden Unternamen), und Sync-Klone werden beim Export automatisch zusammengeführt."
+    "appId":  "de.taberg.boden.rueckbau",
+    "packageName":  "de.taberg.boden.rueckbau",
+    "channel":  "all-in-one",
+    "minimumAndroidVersion":  24,
+    "version":  "0.5.27",
+    "versionCode":  527,
+    "name":  "bOden 0.5.27",
+    "url":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.27/b0den-Mobile-0.5.27.apk",
+    "apkUrl":  "https://github.com/ivanthevil/boden-android-releases/releases/download/v0.5.27/b0den-Mobile-0.5.27.apk",
+    "sha256":  "ce997f41aef0e52a72ca2d90b1b7eeeb80b770790078589caee2d2ea629c7e6e",
+    "publishedAt":  "2026-11-18T17:10:25.621Z",
+    "notes":  "Update 0.1.257 / Mobile 0.5.27: GeoDIN-Signaturen für Pflaster/Pflasterung, Platten, Rasengittersteine, Estrich, Fliesen und Asphalt ergänzt; doppelte Fremd-Einträge (z. B. versehentliche DPH-Klone in RKS-Punkten) automatisch bereinigt und künftig beim Speichern sowie über + NEU und pendingBoringIdRef verhindert; Abweichungen bei Koordinaten/Höhen zwischen Punkten gleicher Nummer werden in Projekte, GeoDIN Fusion und beim Export klar ausgewiesen (inkl. optionaler manueller Verknüpfung in GeoDIN Fusion)."
 }
